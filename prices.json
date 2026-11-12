@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-12 23:11",
+ "generated_utc": "2026-11-12 23:55",
  "players": [
   {
    "name": "Raya",
@@ -13,11 +13,11 @@
     "likelihood": 3
    },
    "next_night": {
-    "percent": 89.7,
+    "percent": 89.3,
     "likelihood": 3
    },
    "night_after": {
-    "percent": 90.5,
+    "percent": 89.8,
     "likelihood": 3
    },
    "calibrating": false,
@@ -25,7 +25,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": 34756,
+   "net_transfers_gw": 34777,
    "owned_pct": 47.5
   },
   {
@@ -94,11 +94,11 @@
     "likelihood": 1
    },
    "next_night": {
-    "percent": 17.5,
+    "percent": 17.4,
     "likelihood": 1
    },
    "night_after": {
-    "percent": 18.1,
+    "percent": 17.9,
     "likelihood": 1
    },
    "calibrating": false,
@@ -106,7 +106,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": 73430,
+   "net_transfers_gw": 73493,
    "owned_pct": 26.1
   },
   {
@@ -125,7 +125,7 @@
     "likelihood": 3
    },
    "night_after": {
-    "percent": 44.8,
+    "percent": 44.7,
     "likelihood": 3
    },
    "calibrating": false,
@@ -133,7 +133,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": 9168,
+   "net_transfers_gw": 9171,
    "owned_pct": 1.0
   },
   {
@@ -148,11 +148,11 @@
     "likelihood": 1
    },
    "next_night": {
-    "percent": 0.6,
+    "percent": 0.7,
     "likelihood": 1
    },
    "night_after": {
-    "percent": 0.8,
+    "percent": 0.9,
     "likelihood": 1
    },
    "calibrating": false,
@@ -160,7 +160,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": 8652,
+   "net_transfers_gw": 8668,
    "owned_pct": 0.4
   },
   {
@@ -175,11 +175,11 @@
     "likelihood": -2
    },
    "next_night": {
-    "percent": -27.9,
+    "percent": -28.9,
     "likelihood": -2
    },
    "night_after": {
-    "percent": -27.9,
+    "percent": -29.9,
     "likelihood": -2
    },
    "calibrating": false,
@@ -187,7 +187,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -1422,
+   "net_transfers_gw": -1423,
    "owned_pct": 0.5
   },
   {
@@ -214,7 +214,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": 34040,
+   "net_transfers_gw": 34052,
    "owned_pct": 48.7
   },
   {
@@ -241,7 +241,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": -640,
+   "net_transfers_gw": -641,
    "owned_pct": 0.7
   },
   {
@@ -250,17 +250,17 @@
    "pos": "DEF",
    "price": 5.4,
    "cost_change_event": 0,
-   "progress_now": -40.2,
+   "progress_now": -40.3,
    "tonight": {
     "percent": -40.3,
     "likelihood": -3
    },
    "next_night": {
-    "percent": -41.1,
+    "percent": -41.3,
     "likelihood": -3
    },
    "night_after": {
-    "percent": -42.0,
+    "percent": -42.3,
     "likelihood": -3
    },
    "calibrating": false,
@@ -268,7 +268,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": -31818,
+   "net_transfers_gw": -31836,
    "owned_pct": 4.2
   },
   {
@@ -279,15 +279,15 @@
    "cost_change_event": 0,
    "progress_now": -20.3,
    "tonight": {
-    "percent": -20.4,
+    "percent": -20.3,
     "likelihood": -2
    },
    "next_night": {
-    "percent": -21.7,
+    "percent": -21.0,
     "likelihood": -2
    },
    "night_after": {
-    "percent": -23.0,
+    "percent": -21.7,
     "likelihood": -2
    },
    "calibrating": false,
@@ -295,7 +295,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": -2447,
+   "net_transfers_gw": -2449,
    "owned_pct": 1.1
   },
   {
@@ -310,11 +310,11 @@
     "likelihood": -1
    },
    "next_night": {
-    "percent": -6.2,
+    "percent": -6.1,
     "likelihood": -1
    },
    "night_after": {
-    "percent": -6.5,
+    "percent": -6.4,
     "likelihood": -1
    },
    "calibrating": false,
@@ -322,7 +322,7 @@
    "status": "i",
    "news": "Thigh injury - Unknown return date",
    "chance_next_round": 0,
-   "net_transfers_gw": -30313,
+   "net_transfers_gw": -30346,
    "owned_pct": 5.5
   },
   {
@@ -337,11 +337,11 @@
     "likelihood": 1
    },
    "next_night": {
-    "percent": 4.0,
+    "percent": 3.9,
     "likelihood": 1
    },
    "night_after": {
-    "percent": 4.1,
+    "percent": 4.0,
     "likelihood": 1
    },
    "calibrating": false,
@@ -349,7 +349,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": 17006,
+   "net_transfers_gw": 17020,
    "owned_pct": 13.7
   },
   {
@@ -364,11 +364,11 @@
     "likelihood": -2
    },
    "next_night": {
-    "percent": -21.2,
+    "percent": -21.0,
     "likelihood": -2
    },
    "night_after": {
-    "percent": -21.9,
+    "percent": -21.5,
     "likelihood": -2
    },
    "calibrating": false,
@@ -376,7 +376,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -3140,
+   "net_transfers_gw": -3142,
    "owned_pct": 1.1
   },
   {
@@ -391,11 +391,11 @@
     "likelihood": -2
    },
    "next_night": {
-    "percent": -32.3,
+    "percent": -32.2,
     "likelihood": -2
    },
    "night_after": {
-    "percent": -31.9,
+    "percent": -31.8,
     "likelihood": -2
    },
    "calibrating": false,
@@ -403,7 +403,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": 16218,
+   "net_transfers_gw": 16229,
    "owned_pct": 16.5
   },
   {
@@ -422,7 +422,7 @@
     "likelihood": 2
    },
    "night_after": {
-    "percent": 23.7,
+    "percent": 23.6,
     "likelihood": 2
    },
    "calibrating": false,
@@ -430,7 +430,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": 3834,
+   "net_transfers_gw": 3833,
    "owned_pct": 0.5
   },
   {
@@ -439,17 +439,17 @@
    "pos": "MID",
    "price": 5.7,
    "cost_change_event": 0,
-   "progress_now": -73.7,
+   "progress_now": -73.8,
    "tonight": {
     "percent": -73.8,
     "likelihood": -3
    },
    "next_night": {
-    "percent": -74.3,
+    "percent": -75.0,
     "likelihood": -3
    },
    "night_after": {
-    "percent": -74.9,
+    "percent": -76.1,
     "likelihood": -3
    },
    "calibrating": false,
@@ -457,7 +457,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -841,
+   "net_transfers_gw": -843,
    "owned_pct": 0.4
   },
   {
@@ -495,15 +495,15 @@
    "cost_change_event": 0,
    "progress_now": -49.1,
    "tonight": {
-    "percent": -49.1,
+    "percent": -49.2,
     "likelihood": -3
    },
    "next_night": {
-    "percent": -49.1,
+    "percent": -49.6,
     "likelihood": -3
    },
    "night_after": {
-    "percent": -49.1,
+    "percent": -50.1,
     "likelihood": -3
    },
    "calibrating": false,
@@ -511,7 +511,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": -683,
+   "net_transfers_gw": -684,
    "owned_pct": 0.5
   },
   {
@@ -520,17 +520,17 @@
    "pos": "MID",
    "price": 5.3,
    "cost_change_event": 0,
-   "progress_now": -85.7,
+   "progress_now": -85.8,
    "tonight": {
-    "percent": -85.7,
+    "percent": -85.8,
     "likelihood": -3
    },
    "next_night": {
-    "percent": -85.7,
+    "percent": -85.8,
     "likelihood": -3
    },
    "night_after": {
-    "percent": -85.7,
+    "percent": -85.8,
     "likelihood": -3
    },
    "calibrating": false,
@@ -634,11 +634,11 @@
     "likelihood": -3
    },
    "next_night": {
-    "percent": -46.6,
+    "percent": -46.8,
     "likelihood": -3
    },
    "night_after": {
-    "percent": -47.4,
+    "percent": -47.7,
     "likelihood": -3
    },
    "calibrating": false,
@@ -646,7 +646,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -4806,
+   "net_transfers_gw": -4817,
    "owned_pct": 3.0
   },
   {
@@ -673,7 +673,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": -13397,
+   "net_transfers_gw": -13408,
    "owned_pct": 6.0
   },
   {
@@ -709,17 +709,17 @@
    "pos": "DEF",
    "price": 4.8,
    "cost_change_event": 0,
-   "progress_now": 92.5,
+   "progress_now": 92.6,
    "tonight": {
     "percent": 92.6,
     "likelihood": 3
    },
    "next_night": {
-    "percent": 95.6,
+    "percent": 95.2,
     "likelihood": 4
    },
    "night_after": {
-    "percent": 98.5,
+    "percent": 97.8,
     "likelihood": 4
    },
    "calibrating": false,
@@ -727,7 +727,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": 125185,
+   "net_transfers_gw": 125311,
    "owned_pct": 24.6
   },
   {
@@ -742,11 +742,11 @@
     "likelihood": 2
    },
    "next_night": {
-    "percent": 32.8,
+    "percent": 33.0,
     "likelihood": 2
    },
    "night_after": {
-    "percent": 32.5,
+    "percent": 33.0,
     "likelihood": 2
    },
    "calibrating": false,
@@ -754,7 +754,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": -7498,
+   "net_transfers_gw": -7502,
    "owned_pct": 2.2
   },
   {
@@ -773,7 +773,7 @@
     "likelihood": -1
    },
    "night_after": {
-    "percent": -8.1,
+    "percent": -8.0,
     "likelihood": -1
    },
    "calibrating": false,
@@ -781,7 +781,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": -4387,
+   "net_transfers_gw": -4394,
    "owned_pct": 3.9
   },
   {
@@ -808,7 +808,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": -62,
+   "net_transfers_gw": -61,
    "owned_pct": 0.1
   },
   {
@@ -877,11 +877,11 @@
     "likelihood": -1
    },
    "next_night": {
-    "percent": -12.4,
+    "percent": -11.2,
     "likelihood": -1
    },
    "night_after": {
-    "percent": -12.4,
+    "percent": -10.1,
     "likelihood": -1
    },
    "calibrating": false,
@@ -889,7 +889,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -424,
+   "net_transfers_gw": -422,
    "owned_pct": 0.4
   },
   {
@@ -904,11 +904,11 @@
     "likelihood": 1
    },
    "next_night": {
-    "percent": 1.1,
+    "percent": 1.0,
     "likelihood": 1
    },
    "night_after": {
-    "percent": 1.2,
+    "percent": 1.0,
     "likelihood": 1
    },
    "calibrating": false,
@@ -916,7 +916,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": 585,
+   "net_transfers_gw": 584,
    "owned_pct": 0.3
   },
   {
@@ -962,7 +962,7 @@
     "likelihood": 1
    },
    "night_after": {
-    "percent": 2.6,
+    "percent": 2.5,
     "likelihood": 1
    },
    "calibrating": false,
@@ -970,7 +970,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": 1125,
+   "net_transfers_gw": 1127,
    "owned_pct": 0.4
   },
   {
@@ -985,11 +985,11 @@
     "likelihood": 1
    },
    "next_night": {
-    "percent": 15.0,
+    "percent": 14.8,
     "likelihood": 1
    },
    "night_after": {
-    "percent": 15.2,
+    "percent": 14.9,
     "likelihood": 1
    },
    "calibrating": false,
@@ -997,7 +997,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": 3380,
+   "net_transfers_gw": 3381,
    "owned_pct": 0.6
   },
   {
@@ -1024,7 +1024,7 @@
    "status": "u",
    "news": "Has joined Getafe on loan for the rest of the season",
    "chance_next_round": 0,
-   "net_transfers_gw": -3951,
+   "net_transfers_gw": -3955,
    "owned_pct": 1.1
   },
   {
@@ -1066,11 +1066,11 @@
     "likelihood": -3
    },
    "next_night": {
-    "percent": -45.9,
+    "percent": -44.8,
     "likelihood": -3
    },
    "night_after": {
-    "percent": -46.5,
+    "percent": -44.3,
     "likelihood": -3
    },
    "calibrating": false,
@@ -1078,7 +1078,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -4108,
+   "net_transfers_gw": -4107,
    "owned_pct": 1.1
   },
   {
@@ -1120,11 +1120,11 @@
     "likelihood": 3
    },
    "next_night": {
-    "percent": 82.2,
+    "percent": 81.6,
     "likelihood": 3
    },
    "night_after": {
-    "percent": 84.0,
+    "percent": 83.0,
     "likelihood": 3
    },
    "calibrating": false,
@@ -1132,7 +1132,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": 34290,
+   "net_transfers_gw": 34363,
    "owned_pct": 3.6
   },
   {
@@ -1174,11 +1174,11 @@
     "likelihood": 1
    },
    "next_night": {
-    "percent": 3.1,
+    "percent": 3.0,
     "likelihood": 1
    },
    "night_after": {
-    "percent": 3.2,
+    "percent": 3.0,
     "likelihood": 1
    },
    "calibrating": false,
@@ -1255,11 +1255,11 @@
     "likelihood": -3
    },
    "next_night": {
-    "percent": -68.2,
+    "percent": -67.8,
     "likelihood": -3
    },
    "night_after": {
-    "percent": -69.1,
+    "percent": -68.2,
     "likelihood": -3
    },
    "calibrating": false,
@@ -1267,7 +1267,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -861,
+   "net_transfers_gw": -862,
    "owned_pct": 0.5
   },
   {
@@ -1278,15 +1278,15 @@
    "cost_change_event": 0,
    "progress_now": -47.2,
    "tonight": {
-    "percent": -47.3,
+    "percent": -47.2,
     "likelihood": -3
    },
    "next_night": {
-    "percent": -48.6,
+    "percent": -48.2,
     "likelihood": -3
    },
    "night_after": {
-    "percent": -50.0,
+    "percent": -49.1,
     "likelihood": -3
    },
    "calibrating": false,
@@ -1294,7 +1294,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": -1163,
+   "net_transfers_gw": -1166,
    "owned_pct": 0.7
   },
   {
@@ -1321,7 +1321,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": 10654,
+   "net_transfers_gw": 10672,
    "owned_pct": 0.2
   },
   {
@@ -1336,11 +1336,11 @@
     "likelihood": 3
    },
    "next_night": {
-    "percent": 45.8,
+    "percent": 46.2,
     "likelihood": 3
    },
    "night_after": {
-    "percent": 44.5,
+    "percent": 45.4,
     "likelihood": 3
    },
    "calibrating": false,
@@ -1348,7 +1348,7 @@
    "status": "d",
    "news": "Calf injury - 75% chance of playing",
    "chance_next_round": 75,
-   "net_transfers_gw": 53707,
+   "net_transfers_gw": 53665,
    "owned_pct": 8.6
   },
   {
@@ -1375,7 +1375,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": 34,
+   "net_transfers_gw": 33,
    "owned_pct": 0.1
   },
   {
@@ -1402,7 +1402,7 @@
    "status": "u",
    "news": "Has joined Al Hilal permanently",
    "chance_next_round": 0,
-   "net_transfers_gw": -1509,
+   "net_transfers_gw": -1510,
    "owned_pct": 2.2
   },
   {
@@ -1429,7 +1429,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": -424,
+   "net_transfers_gw": -425,
    "owned_pct": 0.2
   },
   {
@@ -1438,17 +1438,17 @@
    "pos": "MID",
    "price": 5.7,
    "cost_change_event": 0,
-   "progress_now": -77.9,
+   "progress_now": -78.0,
    "tonight": {
-    "percent": -77.9,
+    "percent": -78.0,
     "likelihood": -3
    },
    "next_night": {
-    "percent": -77.9,
+    "percent": -78.0,
     "likelihood": -3
    },
    "night_after": {
-    "percent": -77.9,
+    "percent": -78.0,
     "likelihood": -3
    },
    "calibrating": false,
@@ -1465,17 +1465,17 @@
    "pos": "FWD",
    "price": 7.1,
    "cost_change_event": 1,
-   "progress_now": 62.6,
+   "progress_now": 62.7,
    "tonight": {
     "percent": 62.7,
     "likelihood": 3
    },
    "next_night": {
-    "percent": 65.6,
+    "percent": 65.1,
     "likelihood": 3
    },
    "night_after": {
-    "percent": 68.4,
+    "percent": 67.6,
     "likelihood": 3
    },
    "calibrating": false,
@@ -1483,7 +1483,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": 296621,
+   "net_transfers_gw": 296911,
    "owned_pct": 31.1
   },
   {
@@ -1498,11 +1498,11 @@
     "likelihood": -1
    },
    "next_night": {
-    "percent": -3.5,
+    "percent": -2.1,
     "likelihood": -1
    },
    "night_after": {
-    "percent": -4.9,
+    "percent": -2.1,
     "likelihood": -1
    },
    "calibrating": false,
@@ -1552,7 +1552,7 @@
     "likelihood": 3
    },
    "next_night": {
-    "percent": 93.0,
+    "percent": 93.1,
     "likelihood": 3
    },
    "night_after": {
@@ -1564,7 +1564,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": 8519,
+   "net_transfers_gw": 8526,
    "owned_pct": 3.1
   },
   {
@@ -1575,15 +1575,15 @@
    "cost_change_event": 0,
    "progress_now": -36.9,
    "tonight": {
-    "percent": -36.8,
+    "percent": -36.9,
     "likelihood": -2
    },
    "next_night": {
-    "percent": -34.3,
+    "percent": -36.9,
     "likelihood": -2
    },
    "night_after": {
-    "percent": -31.9,
+    "percent": -36.9,
     "likelihood": -2
    },
    "calibrating": false,
@@ -1645,7 +1645,7 @@
    "status": "d",
    "news": "Hamstring injury - 50% chance of playing",
    "chance_next_round": 50,
-   "net_transfers_gw": -591,
+   "net_transfers_gw": -592,
    "owned_pct": 0.2
   },
   {
@@ -1753,7 +1753,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": 130,
+   "net_transfers_gw": 131,
    "owned_pct": 0.4
   },
   {
@@ -1795,11 +1795,11 @@
     "likelihood": 1
    },
    "next_night": {
-    "percent": 17.1,
+    "percent": 17.2,
     "likelihood": 1
    },
    "night_after": {
-    "percent": 17.1,
+    "percent": 17.3,
     "likelihood": 1
    },
    "calibrating": false,
@@ -1807,7 +1807,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": 1984,
+   "net_transfers_gw": 1989,
    "owned_pct": 3.2
   },
   {
@@ -1822,11 +1822,11 @@
     "likelihood": -1
    },
    "next_night": {
-    "percent": -7.1,
+    "percent": -6.8,
     "likelihood": -1
    },
    "night_after": {
-    "percent": -7.5,
+    "percent": -6.8,
     "likelihood": -1
    },
    "calibrating": false,
@@ -1834,7 +1834,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -1277,
+   "net_transfers_gw": -1276,
    "owned_pct": 3.4
   },
   {
@@ -1870,17 +1870,17 @@
    "pos": "DEF",
    "price": 5.6,
    "cost_change_event": 0,
-   "progress_now": 16.7,
+   "progress_now": 16.8,
    "tonight": {
     "percent": 16.8,
     "likelihood": 1
    },
    "next_night": {
-    "percent": 17.7,
+    "percent": 17.4,
     "likelihood": 1
    },
    "night_after": {
-    "percent": 18.5,
+    "percent": 18.0,
     "likelihood": 1
    },
    "calibrating": false,
@@ -1888,7 +1888,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": 22488,
+   "net_transfers_gw": 22517,
    "owned_pct": 3.0
   },
   {
@@ -1915,7 +1915,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": 4366,
+   "net_transfers_gw": 4373,
    "owned_pct": 3.3
   },
   {
@@ -1930,11 +1930,11 @@
     "likelihood": -1
    },
    "next_night": {
-    "percent": -17.7,
+    "percent": -19.2,
     "likelihood": -1
    },
    "night_after": {
-    "percent": -16.3,
+    "percent": -19.2,
     "likelihood": -1
    },
    "calibrating": false,
@@ -1996,7 +1996,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": 669,
+   "net_transfers_gw": 670,
    "owned_pct": 0.2
   },
   {
@@ -2077,7 +2077,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": 381,
+   "net_transfers_gw": 385,
    "owned_pct": 2.4
   },
   {
@@ -2092,11 +2092,11 @@
     "likelihood": 1
    },
    "next_night": {
-    "percent": 17.1,
+    "percent": 16.8,
     "likelihood": 1
    },
    "night_after": {
-    "percent": 18.3,
+    "percent": 17.7,
     "likelihood": 1
    },
    "calibrating": false,
@@ -2104,7 +2104,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": 100405,
+   "net_transfers_gw": 100504,
    "owned_pct": 31.4
   },
   {
@@ -2142,15 +2142,15 @@
    "cost_change_event": 0,
    "progress_now": 25.0,
    "tonight": {
-    "percent": 25.1,
+    "percent": 25.0,
     "likelihood": 2
    },
    "next_night": {
-    "percent": 25.2,
+    "percent": 25.0,
     "likelihood": 2
    },
    "night_after": {
-    "percent": 25.4,
+    "percent": 24.9,
     "likelihood": 2
    },
    "calibrating": false,
@@ -2158,7 +2158,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": 2421,
+   "net_transfers_gw": 2420,
    "owned_pct": 1.0
   },
   {
@@ -2227,11 +2227,11 @@
     "likelihood": 1
    },
    "next_night": {
-    "percent": 2.5,
+    "percent": 2.4,
     "likelihood": 1
    },
    "night_after": {
-    "percent": 2.5,
+    "percent": 2.4,
     "likelihood": 1
    },
    "calibrating": false,
@@ -2347,7 +2347,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": 148,
+   "net_transfers_gw": 149,
    "owned_pct": 0.0
   },
   {
@@ -2362,11 +2362,11 @@
     "likelihood": 2
    },
    "next_night": {
-    "percent": 28.0,
+    "percent": 27.9,
     "likelihood": 2
    },
    "night_after": {
-    "percent": 28.2,
+    "percent": 28.0,
     "likelihood": 2
    },
    "calibrating": false,
@@ -2374,7 +2374,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": 2412,
+   "net_transfers_gw": 2414,
    "owned_pct": 0.7
   },
   {
@@ -2385,15 +2385,15 @@
    "cost_change_event": 1,
    "progress_now": 47.2,
    "tonight": {
-    "percent": 47.3,
+    "percent": 47.2,
     "likelihood": 3
    },
    "next_night": {
-    "percent": 49.2,
+    "percent": 48.9,
     "likelihood": 3
    },
    "night_after": {
-    "percent": 51.1,
+    "percent": 50.6,
     "likelihood": 3
    },
    "calibrating": false,
@@ -2401,7 +2401,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": 195043,
+   "net_transfers_gw": 195242,
    "owned_pct": 23.8
   },
   {
@@ -2455,7 +2455,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": 187,
+   "net_transfers_gw": 188,
    "owned_pct": 0.2
   },
   {
@@ -2470,11 +2470,11 @@
     "likelihood": 2
    },
    "next_night": {
-    "percent": 28.9,
+    "percent": 28.7,
     "likelihood": 2
    },
    "night_after": {
-    "percent": 29.3,
+    "percent": 28.9,
     "likelihood": 2
    },
    "calibrating": false,
@@ -2482,7 +2482,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": 18224,
+   "net_transfers_gw": 18230,
    "owned_pct": 3.7
   },
   {
@@ -2491,17 +2491,17 @@
    "pos": "DEF",
    "price": 4.4,
    "cost_change_event": 0,
-   "progress_now": -42.1,
+   "progress_now": -42.2,
    "tonight": {
-    "percent": -42.1,
+    "percent": -42.2,
     "likelihood": -3
    },
    "next_night": {
-    "percent": -42.7,
+    "percent": -43.1,
     "likelihood": -3
    },
    "night_after": {
-    "percent": -43.2,
+    "percent": -44.1,
     "likelihood": -3
    },
    "calibrating": false,
@@ -2509,7 +2509,7 @@
    "status": "i",
    "news": "Ankle injury - Unknown return date",
    "chance_next_round": 0,
-   "net_transfers_gw": -688,
+   "net_transfers_gw": -691,
    "owned_pct": 0.1
   },
   {
@@ -2520,15 +2520,15 @@
    "cost_change_event": 0,
    "progress_now": -36.2,
    "tonight": {
-    "percent": -36.1,
+    "percent": -36.2,
     "likelihood": -2
    },
    "next_night": {
-    "percent": -33.9,
+    "percent": -36.2,
     "likelihood": -2
    },
    "night_after": {
-    "percent": -31.7,
+    "percent": -36.2,
     "likelihood": -2
    },
    "calibrating": false,
@@ -2578,11 +2578,11 @@
     "likelihood": 2
    },
    "next_night": {
-    "percent": 26.4,
+    "percent": 26.3,
     "likelihood": 2
    },
    "night_after": {
-    "percent": 26.3,
+    "percent": 26.1,
     "likelihood": 2
    },
    "calibrating": false,
@@ -2590,7 +2590,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -5691,
+   "net_transfers_gw": -5696,
    "owned_pct": 5.9
   },
   {
@@ -2632,11 +2632,11 @@
     "likelihood": -1
    },
    "next_night": {
-    "percent": -8.5,
+    "percent": -8.0,
     "likelihood": -1
    },
    "night_after": {
-    "percent": -8.5,
+    "percent": -7.6,
     "likelihood": -1
    },
    "calibrating": false,
@@ -2644,7 +2644,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": -313,
+   "net_transfers_gw": -310,
    "owned_pct": 0.8
   },
   {
@@ -2686,11 +2686,11 @@
     "likelihood": 3
    },
    "next_night": {
-    "percent": 49.3,
+    "percent": 49.2,
     "likelihood": 3
    },
    "night_after": {
-    "percent": 49.3,
+    "percent": 49.1,
     "likelihood": 3
    },
    "calibrating": false,
@@ -2698,7 +2698,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -5188,
+   "net_transfers_gw": -5193,
    "owned_pct": 1.8
   },
   {
@@ -2713,11 +2713,11 @@
     "likelihood": 3
    },
    "next_night": {
-    "percent": 56.6,
+    "percent": 56.7,
     "likelihood": 3
    },
    "night_after": {
-    "percent": 56.6,
+    "percent": 56.7,
     "likelihood": 3
    },
    "calibrating": false,
@@ -2740,11 +2740,11 @@
     "likelihood": -1
    },
    "next_night": {
-    "percent": -14.5,
+    "percent": -14.0,
     "likelihood": -1
    },
    "night_after": {
-    "percent": -15.0,
+    "percent": -14.0,
     "likelihood": -1
    },
    "calibrating": false,
@@ -2752,7 +2752,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -10098,
+   "net_transfers_gw": -10102,
    "owned_pct": 6.5
   },
   {
@@ -2767,11 +2767,11 @@
     "likelihood": -3
    },
    "next_night": {
-    "percent": -75.5,
+    "percent": -74.4,
     "likelihood": -3
    },
    "night_after": {
-    "percent": -76.6,
+    "percent": -74.4,
     "likelihood": -3
    },
    "calibrating": false,
@@ -2779,7 +2779,7 @@
    "status": "i",
    "news": "Hip injury - Unknown return date",
    "chance_next_round": 0,
-   "net_transfers_gw": -483,
+   "net_transfers_gw": -485,
    "owned_pct": 0.1
   },
   {
@@ -2790,15 +2790,15 @@
    "cost_change_event": 0,
    "progress_now": -79.9,
    "tonight": {
-    "percent": -79.7,
+    "percent": -79.9,
     "likelihood": -3
    },
    "next_night": {
-    "percent": -74.0,
+    "percent": -79.9,
     "likelihood": -3
    },
    "night_after": {
-    "percent": -68.2,
+    "percent": -79.9,
     "likelihood": -3
    },
    "calibrating": false,
@@ -2848,11 +2848,11 @@
     "likelihood": -3
    },
    "next_night": {
-    "percent": -56.8,
+    "percent": -57.9,
     "likelihood": -3
    },
    "night_after": {
-    "percent": -56.8,
+    "percent": -59.1,
     "likelihood": -3
    },
    "calibrating": false,
@@ -2860,7 +2860,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": -1013,
+   "net_transfers_gw": -1015,
    "owned_pct": 0.4
   },
   {
@@ -2875,11 +2875,11 @@
     "likelihood": -1
    },
    "next_night": {
-    "percent": -16.2,
+    "percent": -16.1,
     "likelihood": -1
    },
    "night_after": {
-    "percent": -16.8,
+    "percent": -16.6,
     "likelihood": -1
    },
    "calibrating": false,
@@ -2887,7 +2887,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": -53002,
+   "net_transfers_gw": -53042,
    "owned_pct": 12.9
   },
   {
@@ -2906,7 +2906,7 @@
     "likelihood": 1
    },
    "night_after": {
-    "percent": 1.0,
+    "percent": 0.9,
     "likelihood": 1
    },
    "calibrating": false,
@@ -2914,7 +2914,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -404,
+   "net_transfers_gw": -405,
    "owned_pct": 0.4
   },
   {
@@ -2929,11 +2929,11 @@
     "likelihood": -3
    },
    "next_night": {
-    "percent": -74.0,
+    "percent": -73.3,
     "likelihood": -3
    },
    "night_after": {
-    "percent": -74.8,
+    "percent": -73.3,
     "likelihood": -3
    },
    "calibrating": false,
@@ -2995,7 +2995,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": -2748,
+   "net_transfers_gw": -2746,
    "owned_pct": 1.6
   },
   {
@@ -3060,15 +3060,15 @@
    "cost_change_event": 0,
    "progress_now": -4.3,
    "tonight": {
-    "percent": -4.2,
+    "percent": -4.4,
     "likelihood": -1
    },
    "next_night": {
-    "percent": -3.2,
+    "percent": -5.8,
     "likelihood": -1
    },
    "night_after": {
-    "percent": -2.2,
+    "percent": -7.3,
     "likelihood": -1
    },
    "calibrating": false,
@@ -3076,7 +3076,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": -457,
+   "net_transfers_gw": -461,
    "owned_pct": 0.4
   },
   {
@@ -3141,15 +3141,15 @@
    "cost_change_event": 0,
    "progress_now": -13.8,
    "tonight": {
-    "percent": -13.9,
+    "percent": -13.8,
     "likelihood": -1
    },
    "next_night": {
-    "percent": -15.5,
+    "percent": -14.8,
     "likelihood": -1
    },
    "night_after": {
-    "percent": -17.0,
+    "percent": -15.8,
     "likelihood": -1
    },
    "calibrating": false,
@@ -3157,7 +3157,7 @@
    "status": "s",
    "news": "Suspended until 5 Dec",
    "chance_next_round": 0,
-   "net_transfers_gw": -95634,
+   "net_transfers_gw": -95728,
    "owned_pct": 8.1
   },
   {
@@ -3172,11 +3172,11 @@
     "likelihood": -1
    },
    "next_night": {
-    "percent": -12.2,
+    "percent": -12.4,
     "likelihood": -1
    },
    "night_after": {
-    "percent": -12.2,
+    "percent": -12.5,
     "likelihood": -1
    },
    "calibrating": false,
@@ -3184,7 +3184,7 @@
    "status": "i",
    "news": "Unspecified injury - Unknown return date",
    "chance_next_round": 0,
-   "net_transfers_gw": -2128,
+   "net_transfers_gw": -2129,
    "owned_pct": 0.6
   },
   {
@@ -3195,15 +3195,15 @@
    "cost_change_event": -1,
    "progress_now": -6.5,
    "tonight": {
-    "percent": -6.4,
+    "percent": -6.5,
     "likelihood": -1
    },
    "next_night": {
-    "percent": -5.6,
+    "percent": -6.5,
     "likelihood": -1
    },
    "night_after": {
-    "percent": -4.7,
+    "percent": -6.5,
     "likelihood": -1
    },
    "calibrating": false,
@@ -3211,7 +3211,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -455,
+   "net_transfers_gw": -456,
    "owned_pct": 0.3
   },
   {
@@ -3220,17 +3220,17 @@
    "pos": "MID",
    "price": 5.4,
    "cost_change_event": 0,
-   "progress_now": -67.1,
+   "progress_now": -67.2,
    "tonight": {
     "percent": -67.2,
     "likelihood": -3
    },
    "next_night": {
-    "percent": -68.1,
+    "percent": -67.8,
     "likelihood": -3
    },
    "night_after": {
-    "percent": -69.0,
+    "percent": -68.4,
     "likelihood": -3
    },
    "calibrating": false,
@@ -3238,7 +3238,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -14989,
+   "net_transfers_gw": -15006,
    "owned_pct": 5.8
   },
   {
@@ -3284,7 +3284,7 @@
     "likelihood": 1
    },
    "night_after": {
-    "percent": 0.4,
+    "percent": 0.5,
     "likelihood": 1
    },
    "calibrating": false,
@@ -3292,7 +3292,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": 10,
+   "net_transfers_gw": 11,
    "owned_pct": 0.0
   },
   {
@@ -3373,7 +3373,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": 34425,
+   "net_transfers_gw": 34442,
    "owned_pct": 24.0
   },
   {
@@ -3388,11 +3388,11 @@
     "likelihood": -4
    },
    "next_night": {
-    "percent": -98.7,
+    "percent": -98.5,
     "likelihood": -4
    },
    "night_after": {
-    "percent": -99.1,
+    "percent": -98.7,
     "likelihood": -4
    },
    "calibrating": false,
@@ -3400,7 +3400,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -6172,
+   "net_transfers_gw": -6180,
    "owned_pct": 3.4
   },
   {
@@ -3427,7 +3427,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": -4633,
+   "net_transfers_gw": -4638,
    "owned_pct": 1.3
   },
   {
@@ -3442,11 +3442,11 @@
     "likelihood": 2
    },
    "next_night": {
-    "percent": 25.2,
+    "percent": 25.1,
     "likelihood": 2
    },
    "night_after": {
-    "percent": 25.3,
+    "percent": 25.1,
     "likelihood": 2
    },
    "calibrating": false,
@@ -3454,7 +3454,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": 3369,
+   "net_transfers_gw": 3368,
    "owned_pct": 0.7
   },
   {
@@ -3465,15 +3465,15 @@
    "cost_change_event": 1,
    "progress_now": 13.4,
    "tonight": {
-    "percent": 13.5,
+    "percent": 13.4,
     "likelihood": 1
    },
    "next_night": {
-    "percent": 14.8,
+    "percent": 14.4,
     "likelihood": 1
    },
    "night_after": {
-    "percent": 16.2,
+    "percent": 15.3,
     "likelihood": 1
    },
    "calibrating": false,
@@ -3481,7 +3481,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": 142573,
+   "net_transfers_gw": 142699,
    "owned_pct": 47.8
   },
   {
@@ -3496,11 +3496,11 @@
     "likelihood": 2
    },
    "next_night": {
-    "percent": 26.6,
+    "percent": 26.7,
     "likelihood": 2
    },
    "night_after": {
-    "percent": 26.6,
+    "percent": 26.7,
     "likelihood": 2
    },
    "calibrating": false,
@@ -3670,7 +3670,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": 246,
+   "net_transfers_gw": 247,
    "owned_pct": 0.0
   },
   {
@@ -3689,7 +3689,7 @@
     "likelihood": 1
    },
    "night_after": {
-    "percent": 3.1,
+    "percent": 3.0,
     "likelihood": 1
    },
    "calibrating": false,
@@ -3697,7 +3697,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": -1155,
+   "net_transfers_gw": -1157,
    "owned_pct": 0.6
   },
   {
@@ -3706,17 +3706,17 @@
    "pos": "MID",
    "price": 6.3,
    "cost_change_event": 1,
-   "progress_now": 22.5,
+   "progress_now": 22.6,
    "tonight": {
     "percent": 22.6,
     "likelihood": 2
    },
    "next_night": {
-    "percent": 23.6,
+    "percent": 23.3,
     "likelihood": 2
    },
    "night_after": {
-    "percent": 24.6,
+    "percent": 24.0,
     "likelihood": 2
    },
    "calibrating": false,
@@ -3724,7 +3724,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": 93940,
+   "net_transfers_gw": 94033,
    "owned_pct": 48.1
   },
   {
@@ -3733,17 +3733,17 @@
    "pos": "FWD",
    "price": 5.3,
    "cost_change_event": 0,
-   "progress_now": -90.1,
+   "progress_now": -90.2,
    "tonight": {
     "percent": -90.2,
     "likelihood": -3
    },
    "next_night": {
-    "percent": -91.6,
+    "percent": -90.2,
     "likelihood": -3
    },
    "night_after": {
-    "percent": -93.0,
+    "percent": -90.2,
     "likelihood": -3
    },
    "calibrating": false,
@@ -3793,11 +3793,11 @@
     "likelihood": 3
    },
    "next_night": {
-    "percent": 91.4,
+    "percent": 91.1,
     "likelihood": 3
    },
    "night_after": {
-    "percent": 92.4,
+    "percent": 91.7,
     "likelihood": 3
    },
    "calibrating": false,
@@ -3805,7 +3805,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": 28846,
+   "net_transfers_gw": 28869,
    "owned_pct": 4.3
   },
   {
@@ -3851,7 +3851,7 @@
     "likelihood": 1
    },
    "night_after": {
-    "percent": 5.5,
+    "percent": 5.4,
     "likelihood": 1
    },
    "calibrating": false,
@@ -3859,7 +3859,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": 22627,
+   "net_transfers_gw": 22648,
    "owned_pct": 2.4
   },
   {
@@ -3967,7 +3967,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -407,
+   "net_transfers_gw": -406,
    "owned_pct": 0.2
   },
   {
@@ -4030,17 +4030,17 @@
    "pos": "FWD",
    "price": 5.8,
    "cost_change_event": 0,
-   "progress_now": -30.2,
+   "progress_now": -30.3,
    "tonight": {
-    "percent": -30.2,
+    "percent": -30.3,
     "likelihood": -2
    },
    "next_night": {
-    "percent": -30.7,
+    "percent": -31.1,
     "likelihood": -2
    },
    "night_after": {
-    "percent": -31.1,
+    "percent": -32.0,
     "likelihood": -2
    },
    "calibrating": false,
@@ -4048,7 +4048,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -49018,
+   "net_transfers_gw": -49064,
    "owned_pct": 9.8
   },
   {
@@ -4057,17 +4057,17 @@
    "pos": "FWD",
    "price": 4.9,
    "cost_change_event": 0,
-   "progress_now": -14.6,
+   "progress_now": -14.7,
    "tonight": {
-    "percent": -14.6,
+    "percent": -14.7,
     "likelihood": -1
    },
    "next_night": {
-    "percent": -14.6,
+    "percent": -14.7,
     "likelihood": -1
    },
    "night_after": {
-    "percent": -14.6,
+    "percent": -14.7,
     "likelihood": -1
    },
    "calibrating": false,
@@ -4075,7 +4075,7 @@
    "status": "i",
    "news": "Ankle injury - Unknown return date",
    "chance_next_round": 0,
-   "net_transfers_gw": -65,
+   "net_transfers_gw": -66,
    "owned_pct": 0.0
   },
   {
@@ -4090,11 +4090,11 @@
     "likelihood": -3
    },
    "next_night": {
-    "percent": -60.3,
+    "percent": -59.6,
     "likelihood": -3
    },
    "night_after": {
-    "percent": -60.3,
+    "percent": -59.0,
     "likelihood": -3
    },
    "calibrating": false,
@@ -4102,7 +4102,7 @@
    "status": "i",
    "news": "Hamstring injury - Expected back 8 Nov",
    "chance_next_round": 0,
-   "net_transfers_gw": -383,
+   "net_transfers_gw": -382,
    "owned_pct": 0.1
   },
   {
@@ -4111,25 +4111,25 @@
    "pos": "DEF",
    "price": 5.3,
    "cost_change_event": 1,
-   "progress_now": 17.3,
+   "progress_now": 17.4,
    "tonight": {
     "percent": 17.4,
     "likelihood": 1
    },
    "next_night": {
-    "percent": 18.9,
+    "percent": 18.7,
     "likelihood": 1
    },
    "night_after": {
-    "percent": 20.5,
-    "likelihood": 2
+    "percent": 19.9,
+    "likelihood": 1
    },
    "calibrating": false,
    "locked_until": null,
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": 148975,
+   "net_transfers_gw": 149152,
    "owned_pct": 9.3
   },
   {
@@ -4138,25 +4138,25 @@
    "pos": "FWD",
    "price": 5.9,
    "cost_change_event": 0,
-   "progress_now": -8.1,
+   "progress_now": -8.0,
    "tonight": {
-    "percent": -8.2,
+    "percent": -7.9,
     "likelihood": -1
    },
    "next_night": {
-    "percent": -9.2,
+    "percent": -3.1,
     "likelihood": -1
    },
    "night_after": {
-    "percent": -10.2,
-    "likelihood": -1
+    "percent": 0.0,
+    "likelihood": 0
    },
    "calibrating": false,
    "locked_until": null,
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": 120,
+   "net_transfers_gw": 125,
    "owned_pct": 0.2
   },
   {
@@ -4198,11 +4198,11 @@
     "likelihood": -1
    },
    "next_night": {
-    "percent": -7.6,
+    "percent": -7.2,
     "likelihood": -1
    },
    "night_after": {
-    "percent": -8.5,
+    "percent": -7.8,
     "likelihood": -1
    },
    "calibrating": false,
@@ -4210,7 +4210,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -11982,
+   "net_transfers_gw": -11996,
    "owned_pct": 2.7
   },
   {
@@ -4291,7 +4291,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": -257,
+   "net_transfers_gw": -258,
    "owned_pct": 0.1
   },
   {
@@ -4345,7 +4345,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": 8,
+   "net_transfers_gw": 9,
    "owned_pct": 0.0
   },
   {
@@ -4372,7 +4372,7 @@
    "status": "d",
    "news": "Head injury - 75% chance of playing",
    "chance_next_round": 75,
-   "net_transfers_gw": -6361,
+   "net_transfers_gw": -6365,
    "owned_pct": 3.1
   },
   {
@@ -4387,11 +4387,11 @@
     "likelihood": 3
    },
    "next_night": {
-    "percent": 49.5,
+    "percent": 49.6,
     "likelihood": 3
    },
    "night_after": {
-    "percent": 50.5,
+    "percent": 50.7,
     "likelihood": 3
    },
    "calibrating": false,
@@ -4399,7 +4399,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": 35261,
+   "net_transfers_gw": 35310,
    "owned_pct": 54.0
   },
   {
@@ -4418,7 +4418,7 @@
     "likelihood": 3
    },
    "night_after": {
-    "percent": 54.9,
+    "percent": 55.0,
     "likelihood": 3
    },
    "calibrating": false,
@@ -4426,7 +4426,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": -7046,
+   "net_transfers_gw": -7053,
    "owned_pct": 1.3
   },
   {
@@ -4534,7 +4534,7 @@
    "status": "i",
    "news": "Knee injury - Unknown return date",
    "chance_next_round": 0,
-   "net_transfers_gw": -8414,
+   "net_transfers_gw": -8423,
    "owned_pct": 3.2
   },
   {
@@ -4651,17 +4651,17 @@
    "pos": "DEF",
    "price": 4.5,
    "cost_change_event": 0,
-   "progress_now": -52.6,
+   "progress_now": -52.7,
    "tonight": {
     "percent": -52.7,
     "likelihood": -3
    },
    "next_night": {
-    "percent": -54.0,
+    "percent": -53.8,
     "likelihood": -3
    },
    "night_after": {
-    "percent": -55.3,
+    "percent": -55.0,
     "likelihood": -3
    },
    "calibrating": false,
@@ -4669,7 +4669,7 @@
    "status": "i",
    "news": "Unspecified injury - Unknown return date",
    "chance_next_round": 0,
-   "net_transfers_gw": -4382,
+   "net_transfers_gw": -4388,
    "owned_pct": 0.5
   },
   {
@@ -4688,7 +4688,7 @@
     "likelihood": 1
    },
    "night_after": {
-    "percent": 3.2,
+    "percent": 3.1,
     "likelihood": 1
    },
    "calibrating": false,
@@ -4696,7 +4696,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -57,
+   "net_transfers_gw": -59,
    "owned_pct": 0.9
   },
   {
@@ -4750,7 +4750,7 @@
    "status": "d",
    "news": "Unspecified injury - 75% chance of playing",
    "chance_next_round": 75,
-   "net_transfers_gw": -1035,
+   "net_transfers_gw": -1037,
    "owned_pct": 0.5
   },
   {
@@ -4765,11 +4765,11 @@
     "likelihood": -3
    },
    "next_night": {
-    "percent": -63.3,
+    "percent": -63.9,
     "likelihood": -3
    },
    "night_after": {
-    "percent": -62.7,
+    "percent": -63.9,
     "likelihood": -3
    },
    "calibrating": false,
@@ -4796,7 +4796,7 @@
     "likelihood": 3
    },
    "night_after": {
-    "percent": 46.4,
+    "percent": 46.5,
     "likelihood": 3
    },
    "calibrating": false,
@@ -4804,7 +4804,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": -11752,
+   "net_transfers_gw": -11755,
    "owned_pct": 28.4
   },
   {
@@ -4819,11 +4819,11 @@
     "likelihood": 2
    },
    "next_night": {
-    "percent": 23.5,
+    "percent": 23.6,
     "likelihood": 2
    },
    "night_after": {
-    "percent": 23.1,
+    "percent": 23.3,
     "likelihood": 2
    },
    "calibrating": false,
@@ -4831,7 +4831,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -13667,
+   "net_transfers_gw": -13681,
    "owned_pct": 5.0
   },
   {
@@ -4846,11 +4846,11 @@
     "likelihood": 1
    },
    "next_night": {
-    "percent": 3.2,
+    "percent": 3.3,
     "likelihood": 1
    },
    "night_after": {
-    "percent": 3.2,
+    "percent": 3.3,
     "likelihood": 1
    },
    "calibrating": false,
@@ -4931,7 +4931,7 @@
     "likelihood": 1
    },
    "night_after": {
-    "percent": 3.8,
+    "percent": 3.7,
     "likelihood": 1
    },
    "calibrating": false,
@@ -4966,7 +4966,7 @@
    "status": "u",
    "news": "Has joined RC Strasbourg on loan for the rest of the season",
    "chance_next_round": 0,
-   "net_transfers_gw": -113,
+   "net_transfers_gw": -114,
    "owned_pct": 0.1
   },
   {
@@ -5008,11 +5008,11 @@
     "likelihood": -1
    },
    "next_night": {
-    "percent": -5.6,
+    "percent": -5.5,
     "likelihood": -1
    },
    "night_after": {
-    "percent": -6.0,
+    "percent": -5.9,
     "likelihood": -1
    },
    "calibrating": false,
@@ -5020,7 +5020,7 @@
    "status": "i",
    "news": "Thigh injury - Unknown return date",
    "chance_next_round": 0,
-   "net_transfers_gw": -308820,
+   "net_transfers_gw": -309086,
    "owned_pct": 31.8
   },
   {
@@ -5074,7 +5074,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -934,
+   "net_transfers_gw": -935,
    "owned_pct": 0.4
   },
   {
@@ -5093,15 +5093,15 @@
     "likelihood": 1
    },
    "night_after": {
-    "percent": 0.1,
-    "likelihood": 1
+    "percent": 0.0,
+    "likelihood": 0
    },
    "calibrating": false,
    "locked_until": null,
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": 77,
+   "net_transfers_gw": 76,
    "owned_pct": 0.1
   },
   {
@@ -5128,7 +5128,7 @@
    "status": "i",
    "news": "Hamstring injury - Unknown return date",
    "chance_next_round": 0,
-   "net_transfers_gw": -30034,
+   "net_transfers_gw": -30067,
    "owned_pct": 4.5
   },
   {
@@ -5137,9 +5137,9 @@
    "pos": "GKP",
    "price": 4.4,
    "cost_change_event": 0,
-   "progress_now": 15.9,
+   "progress_now": 16.0,
    "tonight": {
-    "percent": 15.9,
+    "percent": 16.0,
     "likelihood": 1
    },
    "next_night": {
@@ -5147,7 +5147,7 @@
     "likelihood": 1
    },
    "night_after": {
-    "percent": 16.0,
+    "percent": 16.1,
     "likelihood": 1
    },
    "calibrating": false,
@@ -5155,7 +5155,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": 488,
+   "net_transfers_gw": 491,
    "owned_pct": 0.3
   },
   {
@@ -5290,7 +5290,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": 254,
+   "net_transfers_gw": 253,
    "owned_pct": 0.1
   },
   {
@@ -5317,7 +5317,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": 59,
+   "net_transfers_gw": 60,
    "owned_pct": 0.0
   },
   {
@@ -5336,7 +5336,7 @@
     "likelihood": 1
    },
    "night_after": {
-    "percent": 0.9,
+    "percent": 0.8,
     "likelihood": 1
    },
    "calibrating": false,
@@ -5386,11 +5386,11 @@
     "likelihood": -2
    },
    "next_night": {
-    "percent": -35.3,
+    "percent": -35.6,
     "likelihood": -2
    },
    "night_after": {
-    "percent": -35.4,
+    "percent": -36.1,
     "likelihood": -2
    },
    "calibrating": false,
@@ -5398,7 +5398,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -842,
+   "net_transfers_gw": -843,
    "owned_pct": 0.8
   },
   {
@@ -5425,7 +5425,7 @@
    "status": "u",
    "news": "not included in squad.",
    "chance_next_round": 0,
-   "net_transfers_gw": -1113,
+   "net_transfers_gw": -1114,
    "owned_pct": 0.8
   },
   {
@@ -5461,9 +5461,9 @@
    "pos": "DEF",
    "price": 4.0,
    "cost_change_event": 0,
-   "progress_now": -65.9,
+   "progress_now": -66.0,
    "tonight": {
-    "percent": -65.9,
+    "percent": -66.0,
     "likelihood": -3
    },
    "next_night": {
@@ -5479,7 +5479,7 @@
    "status": "d",
    "news": "Calf injury - 50% chance of playing",
    "chance_next_round": 50,
-   "net_transfers_gw": -29593,
+   "net_transfers_gw": -29625,
    "owned_pct": 7.3
   },
   {
@@ -5521,11 +5521,11 @@
     "likelihood": -1
    },
    "next_night": {
-    "percent": -17.2,
+    "percent": -17.1,
     "likelihood": -1
    },
    "night_after": {
-    "percent": -17.4,
+    "percent": -17.2,
     "likelihood": -1
    },
    "calibrating": false,
@@ -5560,7 +5560,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -1105,
+   "net_transfers_gw": -1104,
    "owned_pct": 1.4
   },
   {
@@ -5598,15 +5598,15 @@
    "cost_change_event": 0,
    "progress_now": -63.0,
    "tonight": {
-    "percent": -63.1,
+    "percent": -63.0,
     "likelihood": -3
    },
    "next_night": {
-    "percent": -66.1,
+    "percent": -63.0,
     "likelihood": -3
    },
    "night_after": {
-    "percent": -69.1,
+    "percent": -63.0,
     "likelihood": -3
    },
    "calibrating": false,
@@ -5704,17 +5704,17 @@
    "pos": "DEF",
    "price": 3.9,
    "cost_change_event": 0,
-   "progress_now": -54.3,
+   "progress_now": -54.4,
    "tonight": {
-    "percent": -54.3,
+    "percent": -54.4,
     "likelihood": -3
    },
    "next_night": {
-    "percent": -54.3,
+    "percent": -54.5,
     "likelihood": -3
    },
    "night_after": {
-    "percent": -54.3,
+    "percent": -54.7,
     "likelihood": -3
    },
    "calibrating": false,
@@ -5722,7 +5722,7 @@
    "status": "i",
    "news": "Calf injury - Unknown return date",
    "chance_next_round": 0,
-   "net_transfers_gw": -799,
+   "net_transfers_gw": -800,
    "owned_pct": 0.4
   },
   {
@@ -5737,11 +5737,11 @@
     "likelihood": 3
    },
    "next_night": {
-    "percent": 61.2,
+    "percent": 61.1,
     "likelihood": 3
    },
    "night_after": {
-    "percent": 61.4,
+    "percent": 61.3,
     "likelihood": 3
    },
    "calibrating": false,
@@ -5749,7 +5749,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": 14531,
+   "net_transfers_gw": 14541,
    "owned_pct": 1.2
   },
   {
@@ -5760,15 +5760,15 @@
    "cost_change_event": 0,
    "progress_now": -63.4,
    "tonight": {
-    "percent": -63.3,
+    "percent": -63.4,
     "likelihood": -3
    },
    "next_night": {
-    "percent": -61.1,
+    "percent": -63.4,
     "likelihood": -3
    },
    "night_after": {
-    "percent": -58.9,
+    "percent": -63.4,
     "likelihood": -3
    },
    "calibrating": false,
@@ -5895,15 +5895,15 @@
    "cost_change_event": 0,
    "progress_now": -77.9,
    "tonight": {
-    "percent": -78.0,
+    "percent": -77.9,
     "likelihood": -3
    },
    "next_night": {
-    "percent": -79.7,
+    "percent": -77.9,
     "likelihood": -3
    },
    "night_after": {
-    "percent": -81.5,
+    "percent": -77.9,
     "likelihood": -3
    },
    "calibrating": false,
@@ -6007,11 +6007,11 @@
     "likelihood": -3
    },
    "next_night": {
-    "percent": -55.1,
+    "percent": -56.6,
     "likelihood": -3
    },
    "night_after": {
-    "percent": -55.1,
+    "percent": -58.1,
     "likelihood": -3
    },
    "calibrating": false,
@@ -6019,7 +6019,7 @@
    "status": "i",
    "news": "Thigh injury - Unknown return date",
    "chance_next_round": 0,
-   "net_transfers_gw": -99,
+   "net_transfers_gw": -100,
    "owned_pct": 0.1
   },
   {
@@ -6038,7 +6038,7 @@
     "likelihood": 1
    },
    "night_after": {
-    "percent": 9.5,
+    "percent": 9.6,
     "likelihood": 1
    },
    "calibrating": false,
@@ -6046,7 +6046,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -4399,
+   "net_transfers_gw": -4401,
    "owned_pct": 0.9
   },
   {
@@ -6057,15 +6057,15 @@
    "cost_change_event": 0,
    "progress_now": -79.8,
    "tonight": {
-    "percent": -79.9,
+    "percent": -79.8,
     "likelihood": -3
    },
    "next_night": {
-    "percent": -81.1,
+    "percent": -80.5,
     "likelihood": -3
    },
    "night_after": {
-    "percent": -82.4,
+    "percent": -81.1,
     "likelihood": -3
    },
    "calibrating": false,
@@ -6073,7 +6073,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -2114,
+   "net_transfers_gw": -2115,
    "owned_pct": 0.6
   },
   {
@@ -6227,7 +6227,7 @@
     "likelihood": 1
    },
    "night_after": {
-    "percent": 12.6,
+    "percent": 12.7,
     "likelihood": 1
    },
    "calibrating": false,
@@ -6235,7 +6235,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -2095,
+   "net_transfers_gw": -2096,
    "owned_pct": 0.4
   },
   {
@@ -6254,7 +6254,7 @@
     "likelihood": 1
    },
    "night_after": {
-    "percent": 2.7,
+    "percent": 2.8,
     "likelihood": 1
    },
    "calibrating": false,
@@ -6262,7 +6262,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": 97,
+   "net_transfers_gw": 100,
    "owned_pct": 1.0
   },
   {
@@ -6316,7 +6316,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": 25,
+   "net_transfers_gw": 26,
    "owned_pct": 0.2
   },
   {
@@ -6352,17 +6352,17 @@
    "pos": "DEF",
    "price": 4.4,
    "cost_change_event": 0,
-   "progress_now": 0.2,
+   "progress_now": 0.3,
    "tonight": {
-    "percent": 0.2,
+    "percent": 0.3,
     "likelihood": 1
    },
    "next_night": {
-    "percent": 0.2,
+    "percent": 0.3,
     "likelihood": 1
    },
    "night_after": {
-    "percent": 0.2,
+    "percent": 0.3,
     "likelihood": 1
    },
    "calibrating": false,
@@ -6370,7 +6370,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": 193,
+   "net_transfers_gw": 194,
    "owned_pct": 0.1
   },
   {
@@ -6397,7 +6397,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": 302,
+   "net_transfers_gw": 303,
    "owned_pct": 1.0
   },
   {
@@ -6424,7 +6424,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -171,
+   "net_transfers_gw": -172,
    "owned_pct": 0.1
   },
   {
@@ -6439,11 +6439,11 @@
     "likelihood": -3
    },
    "next_night": {
-    "percent": -56.8,
+    "percent": -56.3,
     "likelihood": -3
    },
    "night_after": {
-    "percent": -56.8,
+    "percent": -55.8,
     "likelihood": -3
    },
    "calibrating": false,
@@ -6451,7 +6451,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -494,
+   "net_transfers_gw": -492,
    "owned_pct": 0.5
   },
   {
@@ -6489,15 +6489,15 @@
    "cost_change_event": 0,
    "progress_now": -88.8,
    "tonight": {
-    "percent": -88.8,
+    "percent": -88.9,
     "likelihood": -3
    },
    "next_night": {
-    "percent": -89.3,
+    "percent": -89.2,
     "likelihood": -3
    },
    "night_after": {
-    "percent": -89.8,
+    "percent": -89.5,
     "likelihood": -3
    },
    "calibrating": false,
@@ -6505,7 +6505,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -8416,
+   "net_transfers_gw": -8425,
    "owned_pct": 4.7
   },
   {
@@ -6601,11 +6601,11 @@
     "likelihood": -3
    },
    "next_night": {
-    "percent": -54.7,
+    "percent": -53.9,
     "likelihood": -3
    },
    "night_after": {
-    "percent": -55.4,
+    "percent": -53.9,
     "likelihood": -3
    },
    "calibrating": false,
@@ -6622,7 +6622,7 @@
    "pos": "MID",
    "price": 5.3,
    "cost_change_event": -1,
-   "progress_now": -1.2,
+   "progress_now": -1.3,
    "tonight": {
     "percent": -1.3,
     "likelihood": -1
@@ -6640,7 +6640,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": -967,
+   "net_transfers_gw": -970,
    "owned_pct": 0.6
   },
   {
@@ -6655,11 +6655,11 @@
     "likelihood": 1
    },
    "next_night": {
-    "percent": 1.7,
+    "percent": 1.8,
     "likelihood": 1
    },
    "night_after": {
-    "percent": 1.7,
+    "percent": 1.8,
     "likelihood": 1
    },
    "calibrating": false,
@@ -6667,7 +6667,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -172,
+   "net_transfers_gw": -171,
    "owned_pct": 0.3
   },
   {
@@ -6694,7 +6694,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -6925,
+   "net_transfers_gw": -6936,
    "owned_pct": 5.6
   },
   {
@@ -6946,17 +6946,17 @@
    "pos": "FWD",
    "price": 5.9,
    "cost_change_event": 0,
-   "progress_now": -3.6,
+   "progress_now": -3.7,
    "tonight": {
     "percent": -3.7,
     "likelihood": -1
    },
    "next_night": {
-    "percent": -4.1,
+    "percent": -3.9,
     "likelihood": -1
    },
    "night_after": {
-    "percent": -4.6,
+    "percent": -4.2,
     "likelihood": -1
    },
    "calibrating": false,
@@ -6964,7 +6964,7 @@
    "status": "d",
    "news": "Ankle injury - 75% chance of playing",
    "chance_next_round": 75,
-   "net_transfers_gw": -136,
+   "net_transfers_gw": -139,
    "owned_pct": 0.4
   },
   {
@@ -6979,11 +6979,11 @@
     "likelihood": -2
    },
    "next_night": {
-    "percent": -23.9,
+    "percent": -23.7,
     "likelihood": -2
    },
    "night_after": {
-    "percent": -24.2,
+    "percent": -23.9,
     "likelihood": -2
    },
    "calibrating": false,
@@ -6991,7 +6991,7 @@
    "status": "s",
    "news": "Suspended until 2 Dec",
    "chance_next_round": 0,
-   "net_transfers_gw": -2829,
+   "net_transfers_gw": -2832,
    "owned_pct": 1.1
   },
   {
@@ -7099,7 +7099,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -963,
+   "net_transfers_gw": -964,
    "owned_pct": 1.6
   },
   {
@@ -7153,7 +7153,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": -573,
+   "net_transfers_gw": -572,
    "owned_pct": 0.2
   },
   {
@@ -7222,11 +7222,11 @@
     "likelihood": -3
    },
    "next_night": {
-    "percent": -63.3,
+    "percent": -64.1,
     "likelihood": -3
    },
    "night_after": {
-    "percent": -63.3,
+    "percent": -64.9,
     "likelihood": -3
    },
    "calibrating": false,
@@ -7234,7 +7234,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": -477,
+   "net_transfers_gw": -478,
    "owned_pct": 0.3
   },
   {
@@ -7261,7 +7261,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": -21,
+   "net_transfers_gw": -22,
    "owned_pct": 0.0
   },
   {
@@ -7357,11 +7357,11 @@
     "likelihood": 1
    },
    "next_night": {
-    "percent": 4.6,
+    "percent": 4.3,
     "likelihood": 1
    },
    "night_after": {
-    "percent": 4.4,
+    "percent": 4.0,
     "likelihood": 1
    },
    "calibrating": false,
@@ -7369,7 +7369,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -6524,
+   "net_transfers_gw": -6540,
    "owned_pct": 8.5
   },
   {
@@ -7438,11 +7438,11 @@
     "likelihood": 3
    },
    "next_night": {
-    "percent": 79.6,
+    "percent": 79.7,
     "likelihood": 3
    },
    "night_after": {
-    "percent": 78.9,
+    "percent": 79.1,
     "likelihood": 3
    },
    "calibrating": false,
@@ -7450,7 +7450,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -23326,
+   "net_transfers_gw": -23358,
    "owned_pct": 19.3
   },
   {
@@ -7469,7 +7469,7 @@
     "likelihood": 2
    },
    "night_after": {
-    "percent": 22.6,
+    "percent": 22.7,
     "likelihood": 2
    },
    "calibrating": false,
@@ -7477,7 +7477,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": 1434,
+   "net_transfers_gw": 1440,
    "owned_pct": 2.2
   },
   {
@@ -7492,11 +7492,11 @@
     "likelihood": -3
    },
    "next_night": {
-    "percent": -47.9,
+    "percent": -47.5,
     "likelihood": -3
    },
    "night_after": {
-    "percent": -48.2,
+    "percent": -47.5,
     "likelihood": -3
    },
    "calibrating": false,
@@ -7519,12 +7519,12 @@
     "likelihood": 1
    },
    "next_night": {
-    "percent": 0.0,
-    "likelihood": 0
+    "percent": 0.1,
+    "likelihood": 1
    },
    "night_after": {
-    "percent": -1.8,
-    "likelihood": -1
+    "percent": 0.1,
+    "likelihood": 1
    },
    "calibrating": false,
    "locked_until": null,
@@ -7546,11 +7546,11 @@
     "likelihood": -2
    },
    "next_night": {
-    "percent": -37.1,
+    "percent": -36.5,
     "likelihood": -2
    },
    "night_after": {
-    "percent": -37.3,
+    "percent": -36.3,
     "likelihood": -2
    },
    "calibrating": false,
@@ -7558,7 +7558,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": 3877,
+   "net_transfers_gw": 3881,
    "owned_pct": 2.5
   },
   {
@@ -7631,7 +7631,7 @@
     "likelihood": 1
    },
    "night_after": {
-    "percent": 0.8,
+    "percent": 0.7,
     "likelihood": 1
    },
    "calibrating": false,
@@ -7639,7 +7639,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": 48312,
+   "net_transfers_gw": 48326,
    "owned_pct": 7.2
   },
   {
@@ -7654,11 +7654,11 @@
     "likelihood": 1
    },
    "next_night": {
-    "percent": 2.6,
+    "percent": 2.7,
     "likelihood": 1
    },
    "night_after": {
-    "percent": 2.6,
+    "percent": 2.7,
     "likelihood": 1
    },
    "calibrating": false,
@@ -7681,11 +7681,11 @@
     "likelihood": 1
    },
    "next_night": {
-    "percent": 4.7,
+    "percent": 4.8,
     "likelihood": 1
    },
    "night_after": {
-    "percent": 4.7,
+    "percent": 4.8,
     "likelihood": 1
    },
    "calibrating": false,
@@ -7693,7 +7693,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": -323,
+   "net_transfers_gw": -324,
    "owned_pct": 0.2
   },
   {
@@ -7708,11 +7708,11 @@
     "likelihood": 1
    },
    "next_night": {
-    "percent": 8.5,
+    "percent": 8.6,
     "likelihood": 1
    },
    "night_after": {
-    "percent": 8.5,
+    "percent": 8.6,
     "likelihood": 1
    },
    "calibrating": false,
@@ -7762,11 +7762,11 @@
     "likelihood": 1
    },
    "next_night": {
-    "percent": 6.1,
+    "percent": 6.0,
     "likelihood": 1
    },
    "night_after": {
-    "percent": 6.1,
+    "percent": 6.0,
     "likelihood": 1
    },
    "calibrating": false,
@@ -7774,7 +7774,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": -703,
+   "net_transfers_gw": -704,
    "owned_pct": 0.3
   },
   {
@@ -7783,17 +7783,17 @@
    "pos": "MID",
    "price": 5.3,
    "cost_change_event": 0,
-   "progress_now": -71.4,
+   "progress_now": -71.1,
    "tonight": {
-    "percent": -71.4,
+    "percent": -71.0,
     "likelihood": -3
    },
    "next_night": {
-    "percent": -71.4,
+    "percent": -62.5,
     "likelihood": -3
    },
    "night_after": {
-    "percent": -71.4,
+    "percent": -53.9,
     "likelihood": -3
    },
    "calibrating": false,
@@ -7801,7 +7801,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -3,
+   "net_transfers_gw": -2,
    "owned_pct": 0.0
   },
   {
@@ -7882,7 +7882,7 @@
    "status": "u",
    "news": "Has joined Fiorentina permanently",
    "chance_next_round": 0,
-   "net_transfers_gw": -833,
+   "net_transfers_gw": -834,
    "owned_pct": 0.4
   },
   {
@@ -7909,7 +7909,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": 197161,
+   "net_transfers_gw": 197260,
    "owned_pct": 10.7
   },
   {
@@ -7924,11 +7924,11 @@
     "likelihood": 1
    },
    "next_night": {
-    "percent": 3.1,
+    "percent": 3.0,
     "likelihood": 1
    },
    "night_after": {
-    "percent": 3.0,
+    "percent": 2.9,
     "likelihood": 1
    },
    "calibrating": false,
@@ -7936,7 +7936,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -7414,
+   "net_transfers_gw": -7421,
    "owned_pct": 1.2
   },
   {
@@ -7978,11 +7978,11 @@
     "likelihood": 2
    },
    "next_night": {
-    "percent": 36.2,
+    "percent": 36.1,
     "likelihood": 2
    },
    "night_after": {
-    "percent": 36.2,
+    "percent": 35.9,
     "likelihood": 2
    },
    "calibrating": false,
@@ -7990,7 +7990,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -4258,
+   "net_transfers_gw": -4261,
    "owned_pct": 4.4
   },
   {
@@ -8017,7 +8017,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -364,
+   "net_transfers_gw": -365,
    "owned_pct": 1.1
   },
   {
@@ -8071,7 +8071,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": -459,
+   "net_transfers_gw": -458,
    "owned_pct": 0.2
   },
   {
@@ -8090,7 +8090,7 @@
     "likelihood": 1
    },
    "night_after": {
-    "percent": 0.3,
+    "percent": 0.2,
     "likelihood": 1
    },
    "calibrating": false,
@@ -8136,15 +8136,15 @@
    "cost_change_event": 0,
    "progress_now": -59.2,
    "tonight": {
-    "percent": -59.3,
+    "percent": -59.2,
     "likelihood": -3
    },
    "next_night": {
-    "percent": -60.6,
+    "percent": -59.2,
     "likelihood": -3
    },
    "night_after": {
-    "percent": -62.0,
+    "percent": -59.2,
     "likelihood": -3
    },
    "calibrating": false,
@@ -8167,11 +8167,11 @@
     "likelihood": 1
    },
    "next_night": {
-    "percent": 19.8,
+    "percent": 19.9,
     "likelihood": 1
    },
    "night_after": {
-    "percent": 19.7,
+    "percent": 19.9,
     "likelihood": 1
    },
    "calibrating": false,
@@ -8198,7 +8198,7 @@
     "likelihood": 2
    },
    "night_after": {
-    "percent": 23.2,
+    "percent": 23.1,
     "likelihood": 2
    },
    "calibrating": false,
@@ -8206,7 +8206,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": 493,
+   "net_transfers_gw": 498,
    "owned_pct": 1.2
   },
   {
@@ -8221,11 +8221,11 @@
     "likelihood": 3
    },
    "next_night": {
-    "percent": 43.1,
+    "percent": 43.0,
     "likelihood": 3
    },
    "night_after": {
-    "percent": 43.1,
+    "percent": 42.8,
     "likelihood": 3
    },
    "calibrating": false,
@@ -8233,7 +8233,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -3287,
+   "net_transfers_gw": -3295,
    "owned_pct": 1.5
   },
   {
@@ -8302,11 +8302,11 @@
     "likelihood": 1
    },
    "next_night": {
-    "percent": 11.1,
+    "percent": 11.0,
     "likelihood": 1
    },
    "night_after": {
-    "percent": 11.1,
+    "percent": 11.0,
     "likelihood": 1
    },
    "calibrating": false,
@@ -8314,7 +8314,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -795,
+   "net_transfers_gw": -797,
    "owned_pct": 0.5
   },
   {
@@ -8379,15 +8379,15 @@
    "cost_change_event": 0,
    "progress_now": -62.1,
    "tonight": {
-    "percent": -62.1,
+    "percent": -62.2,
     "likelihood": -3
    },
    "next_night": {
-    "percent": -62.8,
+    "percent": -63.3,
     "likelihood": -3
    },
    "night_after": {
-    "percent": -63.5,
+    "percent": -64.5,
     "likelihood": -3
    },
    "calibrating": false,
@@ -8395,7 +8395,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": -20498,
+   "net_transfers_gw": -20513,
    "owned_pct": 3.3
   },
   {
@@ -8441,7 +8441,7 @@
     "likelihood": 1
    },
    "night_after": {
-    "percent": 2.3,
+    "percent": 2.4,
     "likelihood": 1
    },
    "calibrating": false,
@@ -8464,11 +8464,11 @@
     "likelihood": -3
    },
    "next_night": {
-    "percent": -80.2,
+    "percent": -79.5,
     "likelihood": -3
    },
    "night_after": {
-    "percent": -80.8,
+    "percent": -79.5,
     "likelihood": -3
    },
    "calibrating": false,
@@ -8491,11 +8491,11 @@
     "likelihood": -1
    },
    "next_night": {
-    "percent": -10.4,
+    "percent": -10.5,
     "likelihood": -1
    },
    "night_after": {
-    "percent": -10.6,
+    "percent": -10.8,
     "likelihood": -1
    },
    "calibrating": false,
@@ -8503,7 +8503,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -11466,
+   "net_transfers_gw": -11476,
    "owned_pct": 4.2
   },
   {
@@ -8512,17 +8512,17 @@
    "pos": "FWD",
    "price": 5.9,
    "cost_change_event": 0,
-   "progress_now": -81.5,
+   "progress_now": -81.6,
    "tonight": {
     "percent": -81.6,
     "likelihood": -3
    },
    "next_night": {
-    "percent": -83.4,
+    "percent": -83.0,
     "likelihood": -3
    },
    "night_after": {
-    "percent": -85.2,
+    "percent": -84.4,
     "likelihood": -3
    },
    "calibrating": false,
@@ -8530,7 +8530,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -23064,
+   "net_transfers_gw": -23080,
    "owned_pct": 3.6
   },
   {
@@ -8611,7 +8611,7 @@
    "status": "u",
    "news": "has joined  Real Salt Lake on loan for the rest of the seaon.",
    "chance_next_round": 0,
-   "net_transfers_gw": -139,
+   "net_transfers_gw": -140,
    "owned_pct": 0.1
   },
   {
@@ -8626,11 +8626,11 @@
     "likelihood": 1
    },
    "next_night": {
-    "percent": 1.9,
+    "percent": 2.0,
     "likelihood": 1
    },
    "night_after": {
-    "percent": 1.9,
+    "percent": 2.0,
     "likelihood": 1
    },
    "calibrating": false,
@@ -8638,7 +8638,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -1084,
+   "net_transfers_gw": -1085,
    "owned_pct": 0.4
   },
   {
@@ -8703,15 +8703,15 @@
    "cost_change_event": 0,
    "progress_now": 7.8,
    "tonight": {
-    "percent": 7.8,
+    "percent": 7.7,
     "likelihood": 1
    },
    "next_night": {
-    "percent": 7.8,
+    "percent": 7.7,
     "likelihood": 1
    },
    "night_after": {
-    "percent": 7.8,
+    "percent": 7.6,
     "likelihood": 1
    },
    "calibrating": false,
@@ -8719,7 +8719,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": -1541,
+   "net_transfers_gw": -1545,
    "owned_pct": 0.6
   },
   {
@@ -8746,7 +8746,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": 329,
+   "net_transfers_gw": 332,
    "owned_pct": 0.0
   },
   {
@@ -8773,7 +8773,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -737,
+   "net_transfers_gw": -738,
    "owned_pct": 1.3
   },
   {
@@ -8881,7 +8881,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -13839,
+   "net_transfers_gw": -13850,
    "owned_pct": 6.6
   },
   {
@@ -8896,11 +8896,11 @@
     "likelihood": -3
    },
    "next_night": {
-    "percent": -68.6,
+    "percent": -68.0,
     "likelihood": -3
    },
    "night_after": {
-    "percent": -69.2,
+    "percent": -68.0,
     "likelihood": -3
    },
    "calibrating": false,
@@ -8917,7 +8917,7 @@
    "pos": "DEF",
    "price": 4.2,
    "cost_change_event": 0,
-   "progress_now": -48.9,
+   "progress_now": -49.0,
    "tonight": {
     "percent": -49.0,
     "likelihood": -3
@@ -8935,7 +8935,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": -11430,
+   "net_transfers_gw": -11442,
    "owned_pct": 11.9
   },
   {
@@ -8946,15 +8946,15 @@
    "cost_change_event": 0,
    "progress_now": -43.1,
    "tonight": {
-    "percent": -43.2,
+    "percent": -43.1,
     "likelihood": -3
    },
    "next_night": {
-    "percent": -43.9,
+    "percent": -42.8,
     "likelihood": -3
    },
    "night_after": {
-    "percent": -44.6,
+    "percent": -42.4,
     "likelihood": -3
    },
    "calibrating": false,
@@ -8962,7 +8962,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": -43,
+   "net_transfers_gw": -42,
    "owned_pct": 0.6
   },
   {
@@ -9004,11 +9004,11 @@
     "likelihood": 3
    },
    "next_night": {
-    "percent": 51.4,
+    "percent": 51.5,
     "likelihood": 3
    },
    "night_after": {
-    "percent": 51.2,
+    "percent": 51.4,
     "likelihood": 3
    },
    "calibrating": false,
@@ -9112,11 +9112,11 @@
     "likelihood": -1
    },
    "next_night": {
-    "percent": -18.6,
+    "percent": -18.5,
     "likelihood": -1
    },
    "night_after": {
-    "percent": -19.5,
+    "percent": -19.4,
     "likelihood": -1
    },
    "calibrating": false,
@@ -9124,7 +9124,7 @@
    "status": "d",
    "news": "Hamstring injury - 75% chance of playing",
    "chance_next_round": 75,
-   "net_transfers_gw": -33021,
+   "net_transfers_gw": -33093,
    "owned_pct": 9.6
   },
   {
@@ -9166,11 +9166,11 @@
     "likelihood": 1
    },
    "next_night": {
-    "percent": 0.3,
+    "percent": 0.2,
     "likelihood": 1
    },
    "night_after": {
-    "percent": 0.3,
+    "percent": 0.2,
     "likelihood": 1
    },
    "calibrating": false,
@@ -9205,7 +9205,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": -1466,
+   "net_transfers_gw": -1467,
    "owned_pct": 0.5
   },
   {
@@ -9224,7 +9224,7 @@
     "likelihood": 2
    },
    "night_after": {
-    "percent": 26.3,
+    "percent": 26.1,
     "likelihood": 2
    },
    "calibrating": false,
@@ -9232,7 +9232,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -5985,
+   "net_transfers_gw": -5988,
    "owned_pct": 4.3
   },
   {
@@ -9355,11 +9355,11 @@
     "likelihood": 2
    },
    "next_night": {
-    "percent": 22.2,
+    "percent": 22.1,
     "likelihood": 2
    },
    "night_after": {
-    "percent": 22.2,
+    "percent": 22.0,
     "likelihood": 2
    },
    "calibrating": false,
@@ -9367,7 +9367,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -4092,
+   "net_transfers_gw": -4093,
    "owned_pct": 1.7
   },
   {
@@ -9517,11 +9517,11 @@
     "likelihood": -3
    },
    "next_night": {
-    "percent": -48.9,
+    "percent": -48.5,
     "likelihood": -3
    },
    "night_after": {
-    "percent": -49.4,
+    "percent": -48.5,
     "likelihood": -3
    },
    "calibrating": false,
@@ -9529,7 +9529,7 @@
    "status": "i",
    "news": "Ankle injury - Unknown return date",
    "chance_next_round": 0,
-   "net_transfers_gw": -2584,
+   "net_transfers_gw": -2586,
    "owned_pct": 1.1
   },
   {
@@ -9571,11 +9571,11 @@
     "likelihood": -1
    },
    "next_night": {
-    "percent": -13.9,
+    "percent": -13.8,
     "likelihood": -1
    },
    "night_after": {
-    "percent": -14.2,
+    "percent": -14.1,
     "likelihood": -1
    },
    "calibrating": false,
@@ -9583,7 +9583,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -10125,
+   "net_transfers_gw": -10136,
    "owned_pct": 13.5
   },
   {
@@ -9656,7 +9656,7 @@
     "likelihood": 1
    },
    "night_after": {
-    "percent": 0.2,
+    "percent": 0.1,
     "likelihood": 1
    },
    "calibrating": false,
@@ -9664,7 +9664,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": 19,
+   "net_transfers_gw": 18,
    "owned_pct": 0.5
   },
   {
@@ -9679,11 +9679,11 @@
     "likelihood": -1
    },
    "next_night": {
-    "percent": -12.1,
+    "percent": -12.0,
     "likelihood": -1
    },
    "night_after": {
-    "percent": -12.3,
+    "percent": -12.2,
     "likelihood": -1
    },
    "calibrating": false,
@@ -9691,7 +9691,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": -4612,
+   "net_transfers_gw": -4618,
    "owned_pct": 4.5
   },
   {
@@ -9799,7 +9799,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": -250,
+   "net_transfers_gw": -251,
    "owned_pct": 0.1
   },
   {
@@ -9826,7 +9826,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": 1275,
+   "net_transfers_gw": 1278,
    "owned_pct": 0.4
   },
   {
@@ -9841,11 +9841,11 @@
     "likelihood": 1
    },
    "next_night": {
-    "percent": 0.9,
+    "percent": 0.8,
     "likelihood": 1
    },
    "night_after": {
-    "percent": 0.9,
+    "percent": 0.8,
     "likelihood": 1
    },
    "calibrating": false,
@@ -9853,7 +9853,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -184,
+   "net_transfers_gw": -185,
    "owned_pct": 0.0
   },
   {
@@ -9895,11 +9895,11 @@
     "likelihood": -3
    },
    "next_night": {
-    "percent": -44.6,
+    "percent": -44.5,
     "likelihood": -3
    },
    "night_after": {
-    "percent": -45.0,
+    "percent": -44.8,
     "likelihood": -3
    },
    "calibrating": false,
@@ -9907,7 +9907,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -13479,
+   "net_transfers_gw": -13493,
    "owned_pct": 9.9
   },
   {
@@ -9961,7 +9961,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -95,
+   "net_transfers_gw": -94,
    "owned_pct": 0.5
   },
   {
@@ -9976,11 +9976,11 @@
     "likelihood": -3
    },
    "next_night": {
-    "percent": -78.9,
+    "percent": -79.1,
     "likelihood": -3
    },
    "night_after": {
-    "percent": -78.9,
+    "percent": -79.2,
     "likelihood": -3
    },
    "calibrating": false,
@@ -9988,7 +9988,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -2638,
+   "net_transfers_gw": -2641,
    "owned_pct": 3.4
   },
   {
@@ -10015,7 +10015,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -227,
+   "net_transfers_gw": -226,
    "owned_pct": 0.6
   },
   {
@@ -10026,15 +10026,15 @@
    "cost_change_event": 0,
    "progress_now": -52.8,
    "tonight": {
-    "percent": -52.9,
+    "percent": -52.8,
     "likelihood": -3
    },
    "next_night": {
-    "percent": -54.0,
+    "percent": -52.8,
     "likelihood": -3
    },
    "night_after": {
-    "percent": -55.1,
+    "percent": -52.8,
     "likelihood": -3
    },
    "calibrating": false,
@@ -10053,15 +10053,15 @@
    "cost_change_event": 0,
    "progress_now": -30.1,
    "tonight": {
-    "percent": -30.2,
+    "percent": -30.1,
     "likelihood": -2
    },
    "next_night": {
-    "percent": -30.9,
+    "percent": -30.2,
     "likelihood": -2
    },
    "night_after": {
-    "percent": -31.5,
+    "percent": -30.4,
     "likelihood": -2
    },
    "calibrating": false,
@@ -10069,7 +10069,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -4160,
+   "net_transfers_gw": -4165,
    "owned_pct": 2.8
   },
   {
@@ -10084,11 +10084,11 @@
     "likelihood": 2
    },
    "next_night": {
-    "percent": 37.8,
+    "percent": 37.9,
     "likelihood": 2
    },
    "night_after": {
-    "percent": 37.4,
+    "percent": 37.6,
     "likelihood": 2
    },
    "calibrating": false,
@@ -10096,7 +10096,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -15122,
+   "net_transfers_gw": -15137,
    "owned_pct": 6.6
   },
   {
@@ -10123,7 +10123,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -1272,
+   "net_transfers_gw": -1273,
    "owned_pct": 1.0
   },
   {
@@ -10165,11 +10165,11 @@
     "likelihood": -2
    },
    "next_night": {
-    "percent": -33.0,
+    "percent": -33.9,
     "likelihood": -2
    },
    "night_after": {
-    "percent": -33.0,
+    "percent": -34.8,
     "likelihood": -2
    },
    "calibrating": false,
@@ -10177,7 +10177,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -666,
+   "net_transfers_gw": -667,
    "owned_pct": 0.5
   },
   {
@@ -10377,15 +10377,15 @@
    "cost_change_event": -1,
    "progress_now": -9.4,
    "tonight": {
-    "percent": -9.5,
+    "percent": -9.4,
     "likelihood": -1
    },
    "next_night": {
-    "percent": -10.5,
+    "percent": -9.8,
     "likelihood": -1
    },
    "night_after": {
-    "percent": -11.6,
+    "percent": -10.1,
     "likelihood": -1
    },
    "calibrating": false,
@@ -10393,7 +10393,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": -17788,
+   "net_transfers_gw": -17794,
    "owned_pct": 2.8
   },
   {
@@ -10429,17 +10429,17 @@
    "pos": "MID",
    "price": 5.4,
    "cost_change_event": 0,
-   "progress_now": -57.5,
+   "progress_now": -57.6,
    "tonight": {
-    "percent": -57.5,
+    "percent": -57.6,
     "likelihood": -3
    },
    "next_night": {
-    "percent": -57.5,
+    "percent": -61.0,
     "likelihood": -3
    },
    "night_after": {
-    "percent": -57.5,
+    "percent": -64.4,
     "likelihood": -3
    },
    "calibrating": false,
@@ -10447,7 +10447,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": -31,
+   "net_transfers_gw": -32,
    "owned_pct": 0.1
   },
   {
@@ -10489,11 +10489,11 @@
     "likelihood": 1
    },
    "next_night": {
-    "percent": 3.9,
+    "percent": 4.1,
     "likelihood": 1
    },
    "night_after": {
-    "percent": 3.7,
+    "percent": 4.0,
     "likelihood": 1
    },
    "calibrating": false,
@@ -10501,7 +10501,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -3579,
+   "net_transfers_gw": -3584,
    "owned_pct": 0.8
   },
   {
@@ -10516,11 +10516,11 @@
     "likelihood": -3
    },
    "next_night": {
-    "percent": -85.4,
+    "percent": -85.7,
     "likelihood": -3
    },
    "night_after": {
-    "percent": -86.0,
+    "percent": -86.5,
     "likelihood": -3
    },
    "calibrating": false,
@@ -10528,7 +10528,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -11359,
+   "net_transfers_gw": -11366,
    "owned_pct": 2.6
   },
   {
@@ -10570,11 +10570,11 @@
     "likelihood": 1
    },
    "next_night": {
-    "percent": 1.8,
+    "percent": 1.6,
     "likelihood": 1
    },
    "night_after": {
-    "percent": 1.9,
+    "percent": 1.6,
     "likelihood": 1
    },
    "calibrating": false,
@@ -10582,7 +10582,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": 2093,
+   "net_transfers_gw": 2090,
    "owned_pct": 0.9
   },
   {
@@ -10651,11 +10651,11 @@
     "likelihood": -3
    },
    "next_night": {
-    "percent": -63.7,
+    "percent": -61.7,
     "likelihood": -3
    },
    "night_after": {
-    "percent": -65.6,
+    "percent": -61.7,
     "likelihood": -3
    },
    "calibrating": false,
@@ -10663,7 +10663,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -402,
+   "net_transfers_gw": -403,
    "owned_pct": 0.2
   },
   {
@@ -10717,7 +10717,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": 375,
+   "net_transfers_gw": 377,
    "owned_pct": 0.1
   },
   {
@@ -10732,7 +10732,7 @@
     "likelihood": 2
    },
    "next_night": {
-    "percent": 28.0,
+    "percent": 27.9,
     "likelihood": 2
    },
    "night_after": {
@@ -10744,7 +10744,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": 843,
+   "net_transfers_gw": 848,
    "owned_pct": 1.1
   },
   {
@@ -10763,7 +10763,7 @@
     "likelihood": 1
    },
    "night_after": {
-    "percent": 3.8,
+    "percent": 3.9,
     "likelihood": 1
    },
    "calibrating": false,
@@ -10817,7 +10817,7 @@
     "likelihood": 1
    },
    "night_after": {
-    "percent": 1.0,
+    "percent": 0.9,
     "likelihood": 1
    },
    "calibrating": false,
@@ -10867,11 +10867,11 @@
     "likelihood": -1
    },
    "next_night": {
-    "percent": -1.8,
+    "percent": -1.5,
     "likelihood": -1
    },
    "night_after": {
-    "percent": -2.2,
+    "percent": -1.5,
     "likelihood": -1
    },
    "calibrating": false,
@@ -10921,11 +10921,11 @@
     "likelihood": -3
    },
    "next_night": {
-    "percent": -61.9,
+    "percent": -61.0,
     "likelihood": -3
    },
    "night_after": {
-    "percent": -62.7,
+    "percent": -61.0,
     "likelihood": -3
    },
    "calibrating": false,
@@ -10969,17 +10969,17 @@
    "pos": "DEF",
    "price": 4.8,
    "cost_change_event": 0,
-   "progress_now": -14.2,
+   "progress_now": -14.1,
    "tonight": {
     "percent": -14.1,
     "likelihood": -1
    },
    "next_night": {
-    "percent": -13.6,
+    "percent": -14.0,
     "likelihood": -1
    },
    "night_after": {
-    "percent": -13.1,
+    "percent": -13.9,
     "likelihood": -1
    },
    "calibrating": false,
@@ -10987,7 +10987,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": 19738,
+   "net_transfers_gw": 19749,
    "owned_pct": 11.2
   },
   {
@@ -11006,7 +11006,7 @@
     "likelihood": 1
    },
    "night_after": {
-    "percent": 3.4,
+    "percent": 3.3,
     "likelihood": 1
    },
    "calibrating": false,
@@ -11014,7 +11014,7 @@
    "status": "d",
    "news": "Hamstring injury - 75% chance of playing",
    "chance_next_round": 75,
-   "net_transfers_gw": -673,
+   "net_transfers_gw": -675,
    "owned_pct": 0.1
   },
   {
@@ -11029,7 +11029,7 @@
     "likelihood": 3
    },
    "next_night": {
-    "percent": 65.6,
+    "percent": 65.7,
     "likelihood": 3
    },
    "night_after": {
@@ -11041,7 +11041,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": 6300,
+   "net_transfers_gw": 6311,
    "owned_pct": 2.4
   },
   {
@@ -11077,17 +11077,17 @@
    "pos": "DEF",
    "price": 5.1,
    "cost_change_event": 0,
-   "progress_now": 21.2,
+   "progress_now": 21.3,
    "tonight": {
     "percent": 21.3,
     "likelihood": 2
    },
    "next_night": {
-    "percent": 21.7,
+    "percent": 21.6,
     "likelihood": 2
    },
    "night_after": {
-    "percent": 22.1,
+    "percent": 21.9,
     "likelihood": 2
    },
    "calibrating": false,
@@ -11095,7 +11095,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": 29601,
+   "net_transfers_gw": 29619,
    "owned_pct": 6.4
   },
   {
@@ -11110,11 +11110,11 @@
     "likelihood": -3
    },
    "next_night": {
-    "percent": -65.6,
+    "percent": -65.1,
     "likelihood": -3
    },
    "night_after": {
-    "percent": -66.7,
+    "percent": -65.8,
     "likelihood": -3
    },
    "calibrating": false,
@@ -11122,7 +11122,7 @@
    "status": "d",
    "news": "Foot injury - 50% chance of playing",
    "chance_next_round": 50,
-   "net_transfers_gw": -11707,
+   "net_transfers_gw": -11715,
    "owned_pct": 1.6
   },
   {
@@ -11141,7 +11141,7 @@
     "likelihood": 1
    },
    "night_after": {
-    "percent": 0.9,
+    "percent": 0.8,
     "likelihood": 1
    },
    "calibrating": false,
@@ -11158,17 +11158,17 @@
    "pos": "MID",
    "price": 5.2,
    "cost_change_event": 0,
-   "progress_now": -37.6,
+   "progress_now": -37.7,
    "tonight": {
-    "percent": -37.6,
+    "percent": -37.7,
     "likelihood": -2
    },
    "next_night": {
-    "percent": -37.6,
+    "percent": -38.3,
     "likelihood": -2
    },
    "night_after": {
-    "percent": -37.6,
+    "percent": -38.9,
     "likelihood": -2
    },
    "calibrating": false,
@@ -11176,7 +11176,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -686,
+   "net_transfers_gw": -687,
    "owned_pct": 0.4
   },
   {
@@ -11185,17 +11185,17 @@
    "pos": "MID",
    "price": 5.3,
    "cost_change_event": 0,
-   "progress_now": -65.8,
+   "progress_now": -65.9,
    "tonight": {
     "percent": -65.9,
     "likelihood": -3
    },
    "next_night": {
-    "percent": -66.3,
+    "percent": -66.4,
     "likelihood": -3
    },
    "night_after": {
-    "percent": -66.7,
+    "percent": -66.9,
     "likelihood": -3
    },
    "calibrating": false,
@@ -11203,7 +11203,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -1219,
+   "net_transfers_gw": -1220,
    "owned_pct": 0.7
   },
   {
@@ -11214,15 +11214,15 @@
    "cost_change_event": 0,
    "progress_now": -82.3,
    "tonight": {
-    "percent": -82.1,
+    "percent": -82.3,
     "likelihood": -3
    },
    "next_night": {
-    "percent": -76.5,
+    "percent": -82.3,
     "likelihood": -3
    },
    "night_after": {
-    "percent": -71.0,
+    "percent": -82.3,
     "likelihood": -3
    },
    "calibrating": false,
@@ -11295,16 +11295,16 @@
    "cost_change_event": 0,
    "progress_now": -15.6,
    "tonight": {
-    "percent": -15.7,
+    "percent": -15.6,
     "likelihood": -1
    },
    "next_night": {
-    "percent": -19.1,
+    "percent": -15.6,
     "likelihood": -1
    },
    "night_after": {
-    "percent": -22.6,
-    "likelihood": -2
+    "percent": -15.6,
+    "likelihood": -1
    },
    "calibrating": false,
    "locked_until": null,
@@ -11374,7 +11374,7 @@
    "pos": "FWD",
    "price": 6.0,
    "cost_change_event": -1,
-   "progress_now": -21.6,
+   "progress_now": -21.7,
    "tonight": {
     "percent": -21.7,
     "likelihood": -2
@@ -11392,7 +11392,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": -105304,
+   "net_transfers_gw": -105397,
    "owned_pct": 17.6
   },
   {
@@ -11407,11 +11407,11 @@
     "likelihood": -3
    },
    "next_night": {
-    "percent": -74.6,
+    "percent": -75.6,
     "likelihood": -3
    },
    "night_after": {
-    "percent": -74.6,
+    "percent": -76.6,
     "likelihood": -3
    },
    "calibrating": false,
@@ -11419,7 +11419,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -982,
+   "net_transfers_gw": -985,
    "owned_pct": 0.4
   },
   {
@@ -11446,7 +11446,7 @@
    "status": "u",
    "news": "Has joined West Ham United on loan for the rest of the season",
    "chance_next_round": 0,
-   "net_transfers_gw": -80,
+   "net_transfers_gw": -81,
    "owned_pct": 0.0
   },
   {
@@ -11461,12 +11461,12 @@
     "likelihood": 0
    },
    "next_night": {
-    "percent": 0.1,
-    "likelihood": 1
+    "percent": 0.0,
+    "likelihood": 0
    },
    "night_after": {
-    "percent": 0.1,
-    "likelihood": 1
+    "percent": 0.0,
+    "likelihood": 0
    },
    "calibrating": false,
    "locked_until": null,
@@ -11482,17 +11482,17 @@
    "pos": "GKP",
    "price": 5.0,
    "cost_change_event": 0,
-   "progress_now": 83.6,
+   "progress_now": 83.7,
    "tonight": {
     "percent": 83.7,
     "likelihood": 3
    },
    "next_night": {
-    "percent": 84.0,
+    "percent": 83.9,
     "likelihood": 3
    },
    "night_after": {
-    "percent": 84.3,
+    "percent": 84.2,
     "likelihood": 3
    },
    "calibrating": false,
@@ -11500,7 +11500,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": 15851,
+   "net_transfers_gw": 15870,
    "owned_pct": 6.5
   },
   {
@@ -11515,11 +11515,11 @@
     "likelihood": 1
    },
    "next_night": {
-    "percent": 0.7,
+    "percent": 0.8,
     "likelihood": 1
    },
    "night_after": {
-    "percent": 0.7,
+    "percent": 0.8,
     "likelihood": 1
    },
    "calibrating": false,
@@ -11527,7 +11527,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": 97,
+   "net_transfers_gw": 98,
    "owned_pct": 0.1
   },
   {
@@ -11536,17 +11536,17 @@
    "pos": "DEF",
    "price": 4.0,
    "cost_change_event": 0,
-   "progress_now": -37.6,
+   "progress_now": -37.7,
    "tonight": {
-    "percent": -37.6,
+    "percent": -37.7,
     "likelihood": -2
    },
    "next_night": {
-    "percent": -37.6,
+    "percent": -37.7,
     "likelihood": -2
    },
    "night_after": {
-    "percent": -37.6,
+    "percent": -37.7,
     "likelihood": -2
    },
    "calibrating": false,
@@ -11554,7 +11554,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -82,
+   "net_transfers_gw": -83,
    "owned_pct": 0.1
   },
   {
@@ -11627,7 +11627,7 @@
     "likelihood": 1
    },
    "night_after": {
-    "percent": 3.5,
+    "percent": 3.4,
     "likelihood": 1
    },
    "calibrating": false,
@@ -11708,7 +11708,7 @@
     "likelihood": -1
    },
    "night_after": {
-    "percent": -14.2,
+    "percent": -14.3,
     "likelihood": -1
    },
    "calibrating": false,
@@ -11716,7 +11716,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -208,
+   "net_transfers_gw": -207,
    "owned_pct": 4.1
   },
   {
@@ -11770,7 +11770,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -691,
+   "net_transfers_gw": -690,
    "owned_pct": 0.9
   },
   {
@@ -11833,17 +11833,17 @@
    "pos": "GKP",
    "price": 4.0,
    "cost_change_event": 0,
-   "progress_now": -15.1,
+   "progress_now": -15.2,
    "tonight": {
-    "percent": -15.1,
+    "percent": -15.2,
     "likelihood": -1
    },
    "next_night": {
-    "percent": -15.1,
+    "percent": -15.2,
     "likelihood": -1
    },
    "night_after": {
-    "percent": -15.1,
+    "percent": -15.2,
     "likelihood": -1
    },
    "calibrating": false,
@@ -11851,7 +11851,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -97,
+   "net_transfers_gw": -98,
    "owned_pct": 0.2
   },
   {
@@ -11878,7 +11878,7 @@
    "status": "d",
    "news": "Unspecified injury - 75% chance of playing",
    "chance_next_round": 75,
-   "net_transfers_gw": -17349,
+   "net_transfers_gw": -17452,
    "owned_pct": 14.8
   },
   {
@@ -11893,11 +11893,11 @@
     "likelihood": -4
    },
    "next_night": {
-    "percent": -97.3,
+    "percent": -97.2,
     "likelihood": -4
    },
    "night_after": {
-    "percent": -97.7,
+    "percent": -97.5,
     "likelihood": -4
    },
    "calibrating": false,
@@ -11905,7 +11905,7 @@
    "status": "i",
    "news": "Hamstring injury - Unknown return date",
    "chance_next_round": 0,
-   "net_transfers_gw": -3192,
+   "net_transfers_gw": -3196,
    "owned_pct": 1.2
   },
   {
@@ -11920,11 +11920,11 @@
     "likelihood": -3
    },
    "next_night": {
-    "percent": -82.6,
+    "percent": -81.9,
     "likelihood": -3
    },
    "night_after": {
-    "percent": -83.0,
+    "percent": -81.6,
     "likelihood": -3
    },
    "calibrating": false,
@@ -11932,7 +11932,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -1673,
+   "net_transfers_gw": -1674,
    "owned_pct": 1.8
   },
   {
@@ -11959,7 +11959,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": 66,
+   "net_transfers_gw": 67,
    "owned_pct": 0.0
   },
   {
@@ -12013,7 +12013,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": 18,
+   "net_transfers_gw": 19,
    "owned_pct": 0.1
   },
   {
@@ -12028,11 +12028,11 @@
     "likelihood": 2
    },
    "next_night": {
-    "percent": 29.8,
+    "percent": 29.7,
     "likelihood": 2
    },
    "night_after": {
-    "percent": 30.0,
+    "percent": 29.7,
     "likelihood": 2
    },
    "calibrating": false,
@@ -12040,7 +12040,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": 7990,
+   "net_transfers_gw": 7993,
    "owned_pct": 4.7
   },
   {
@@ -12136,11 +12136,11 @@
     "likelihood": 3
    },
    "next_night": {
-    "percent": 45.1,
+    "percent": 45.0,
     "likelihood": 3
    },
    "night_after": {
-    "percent": 46.8,
+    "percent": 46.7,
     "likelihood": 3
    },
    "calibrating": false,
@@ -12148,7 +12148,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": 46336,
+   "net_transfers_gw": 46416,
    "owned_pct": 5.6
   },
   {
@@ -12163,7 +12163,7 @@
     "likelihood": 2
    },
    "next_night": {
-    "percent": 31.7,
+    "percent": 31.8,
     "likelihood": 2
    },
    "night_after": {
@@ -12175,7 +12175,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": -9261,
+   "net_transfers_gw": -9270,
    "owned_pct": 7.0
   },
   {
@@ -12190,11 +12190,11 @@
     "likelihood": 1
    },
    "next_night": {
-    "percent": 3.9,
+    "percent": 3.7,
     "likelihood": 1
    },
    "night_after": {
-    "percent": 4.3,
+    "percent": 3.8,
     "likelihood": 1
    },
    "calibrating": false,
@@ -12221,7 +12221,7 @@
     "likelihood": 1
    },
    "night_after": {
-    "percent": 2.4,
+    "percent": 2.5,
     "likelihood": 1
    },
    "calibrating": false,
@@ -12229,7 +12229,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -1277,
+   "net_transfers_gw": -1278,
    "owned_pct": 0.5
   },
   {
@@ -12271,11 +12271,11 @@
     "likelihood": -2
    },
    "next_night": {
-    "percent": -35.5,
+    "percent": -34.8,
     "likelihood": -2
    },
    "night_after": {
-    "percent": -36.4,
+    "percent": -35.2,
     "likelihood": -2
    },
    "calibrating": false,
@@ -12283,7 +12283,7 @@
    "status": "d",
    "news": "Foot injury - 75% chance of playing",
    "chance_next_round": 75,
-   "net_transfers_gw": -3551,
+   "net_transfers_gw": -3553,
    "owned_pct": 0.8
   },
   {
@@ -12298,11 +12298,11 @@
     "likelihood": -2
    },
    "next_night": {
-    "percent": -22.4,
+    "percent": -22.6,
     "likelihood": -2
    },
    "night_after": {
-    "percent": -21.8,
+    "percent": -22.4,
     "likelihood": -2
    },
    "calibrating": false,
@@ -12310,7 +12310,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": 4267,
+   "net_transfers_gw": 4268,
    "owned_pct": 1.3
   },
   {
@@ -12391,7 +12391,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": 509,
+   "net_transfers_gw": 508,
    "owned_pct": 0.1
   },
   {
@@ -12427,17 +12427,17 @@
    "pos": "MID",
    "price": 6.5,
    "cost_change_event": 0,
-   "progress_now": -34.9,
+   "progress_now": -35.0,
    "tonight": {
-    "percent": -34.9,
+    "percent": -35.0,
     "likelihood": -2
    },
    "next_night": {
-    "percent": -34.9,
+    "percent": -35.9,
     "likelihood": -2
    },
    "night_after": {
-    "percent": -34.9,
+    "percent": -36.9,
     "likelihood": -2
    },
    "calibrating": false,
@@ -12445,7 +12445,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": -2041,
+   "net_transfers_gw": -2044,
    "owned_pct": 0.7
   },
   {
@@ -12456,23 +12456,23 @@
    "cost_change_event": 0,
    "progress_now": -93.3,
    "tonight": {
-    "percent": -93.4,
+    "percent": -93.3,
     "likelihood": -3
    },
    "next_night": {
-    "percent": -95.2,
-    "likelihood": -4
+    "percent": -93.3,
+    "likelihood": -3
    },
    "night_after": {
-    "percent": -97.0,
-    "likelihood": -4
+    "percent": -93.3,
+    "likelihood": -3
    },
    "calibrating": false,
    "locked_until": null,
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -387,
+   "net_transfers_gw": -388,
    "owned_pct": 0.2
   },
   {
@@ -12481,17 +12481,17 @@
    "pos": "FWD",
    "price": 9.3,
    "cost_change_event": 1,
-   "progress_now": 9.7,
+   "progress_now": 9.8,
    "tonight": {
     "percent": 9.8,
     "likelihood": 1
    },
    "next_night": {
-    "percent": 10.8,
+    "percent": 10.4,
     "likelihood": 1
    },
    "night_after": {
-    "percent": 11.7,
+    "percent": 11.1,
     "likelihood": 1
    },
    "calibrating": false,
@@ -12499,7 +12499,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": 99922,
+   "net_transfers_gw": 100002,
    "owned_pct": 25.1
   },
   {
@@ -12514,11 +12514,11 @@
     "likelihood": -3
    },
    "next_night": {
-    "percent": -55.1,
+    "percent": -55.8,
     "likelihood": -3
    },
    "night_after": {
-    "percent": -54.3,
+    "percent": -55.8,
     "likelihood": -3
    },
    "calibrating": false,
@@ -12568,11 +12568,11 @@
     "likelihood": 1
    },
    "next_night": {
-    "percent": 2.8,
+    "percent": 2.9,
     "likelihood": 1
    },
    "night_after": {
-    "percent": 2.7,
+    "percent": 2.9,
     "likelihood": 1
    },
    "calibrating": false,
@@ -12580,7 +12580,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": -745,
+   "net_transfers_gw": -743,
    "owned_pct": 0.2
   },
   {
@@ -12616,7 +12616,7 @@
    "pos": "DEF",
    "price": 5.5,
    "cost_change_event": 1,
-   "progress_now": 6.0,
+   "progress_now": 6.1,
    "tonight": {
     "percent": 6.1,
     "likelihood": 1
@@ -12626,7 +12626,7 @@
     "likelihood": 1
    },
    "night_after": {
-    "percent": 6.6,
+    "percent": 6.7,
     "likelihood": 1
    },
    "calibrating": false,
@@ -12634,7 +12634,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": 25115,
+   "net_transfers_gw": 25146,
    "owned_pct": 4.4
   },
   {
@@ -12661,7 +12661,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": 4254,
+   "net_transfers_gw": 4263,
    "owned_pct": 4.4
   },
   {
@@ -12670,17 +12670,17 @@
    "pos": "MID",
    "price": 6.9,
    "cost_change_event": 0,
-   "progress_now": 0.9,
+   "progress_now": 0.8,
    "tonight": {
     "percent": 0.8,
     "likelihood": 1
    },
    "next_night": {
-    "percent": 0.7,
+    "percent": 0.5,
     "likelihood": 1
    },
    "night_after": {
-    "percent": 0.5,
+    "percent": 0.1,
     "likelihood": 1
    },
    "calibrating": false,
@@ -12688,7 +12688,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -9598,
+   "net_transfers_gw": -9614,
    "owned_pct": 3.6
   },
   {
@@ -12697,17 +12697,17 @@
    "pos": "MID",
    "price": 5.8,
    "cost_change_event": 0,
-   "progress_now": -72.4,
+   "progress_now": -72.5,
    "tonight": {
-    "percent": -72.4,
+    "percent": -72.5,
     "likelihood": -3
    },
    "next_night": {
-    "percent": -72.6,
+    "percent": -72.9,
     "likelihood": -3
    },
    "night_after": {
-    "percent": -72.8,
+    "percent": -73.4,
     "likelihood": -3
    },
    "calibrating": false,
@@ -12715,7 +12715,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -10291,
+   "net_transfers_gw": -10303,
    "owned_pct": 5.4
   },
   {
@@ -12730,11 +12730,11 @@
     "likelihood": -1
    },
    "next_night": {
-    "percent": -3.6,
+    "percent": -3.3,
     "likelihood": -1
    },
    "night_after": {
-    "percent": -3.9,
+    "percent": -3.3,
     "likelihood": -1
    },
    "calibrating": false,
@@ -12742,7 +12742,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -20020,
+   "net_transfers_gw": -20025,
    "owned_pct": 7.1
   },
   {
@@ -12778,17 +12778,17 @@
    "pos": "DEF",
    "price": 6.2,
    "cost_change_event": 0,
-   "progress_now": -28.3,
+   "progress_now": -28.4,
    "tonight": {
-    "percent": -28.3,
+    "percent": -28.4,
     "likelihood": -2
    },
    "next_night": {
-    "percent": -27.9,
+    "percent": -28.3,
     "likelihood": -2
    },
    "night_after": {
-    "percent": -27.5,
+    "percent": -28.3,
     "likelihood": -2
    },
    "calibrating": false,
@@ -12796,7 +12796,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": -8125,
+   "net_transfers_gw": -8127,
    "owned_pct": 8.1
   },
   {
@@ -12805,17 +12805,17 @@
    "pos": "DEF",
    "price": 6.0,
    "cost_change_event": 0,
-   "progress_now": -68.0,
+   "progress_now": -68.1,
    "tonight": {
     "percent": -68.1,
     "likelihood": -3
    },
    "next_night": {
-    "percent": -69.7,
+    "percent": -69.4,
     "likelihood": -3
    },
    "night_after": {
-    "percent": -71.3,
+    "percent": -70.6,
     "likelihood": -3
    },
    "calibrating": false,
@@ -12823,7 +12823,7 @@
    "status": "d",
    "news": "Unspecified injury - 75% chance of playing",
    "chance_next_round": 75,
-   "net_transfers_gw": -140065,
+   "net_transfers_gw": -140209,
    "owned_pct": 14.1
   },
   {
@@ -12838,11 +12838,11 @@
     "likelihood": -3
    },
    "next_night": {
-    "percent": -65.6,
+    "percent": -66.2,
     "likelihood": -3
    },
    "night_after": {
-    "percent": -64.9,
+    "percent": -66.0,
     "likelihood": -3
    },
    "calibrating": false,
@@ -12850,7 +12850,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": 452,
+   "net_transfers_gw": 453,
    "owned_pct": 1.0
   },
   {
@@ -12865,11 +12865,11 @@
     "likelihood": 1
    },
    "next_night": {
-    "percent": 9.7,
+    "percent": 9.6,
     "likelihood": 1
    },
    "night_after": {
-    "percent": 9.7,
+    "percent": 9.6,
     "likelihood": 1
    },
    "calibrating": false,
@@ -12877,7 +12877,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -1159,
+   "net_transfers_gw": -1160,
    "owned_pct": 2.0
   },
   {
@@ -12892,11 +12892,11 @@
     "likelihood": -1
    },
    "next_night": {
-    "percent": -10.3,
+    "percent": -10.1,
     "likelihood": -1
    },
    "night_after": {
-    "percent": -11.1,
+    "percent": -10.8,
     "likelihood": -1
    },
    "calibrating": false,
@@ -12904,7 +12904,7 @@
    "status": "d",
    "news": "Unspecified injury - 75% chance of playing",
    "chance_next_round": 75,
-   "net_transfers_gw": -284245,
+   "net_transfers_gw": -284462,
    "owned_pct": 22.7
   },
   {
@@ -12919,11 +12919,11 @@
     "likelihood": -1
    },
    "next_night": {
-    "percent": -1.1,
+    "percent": -1.4,
     "likelihood": -1
    },
    "night_after": {
-    "percent": -0.7,
+    "percent": -1.4,
     "likelihood": -1
    },
    "calibrating": false,
@@ -12946,11 +12946,11 @@
     "likelihood": -1
    },
    "next_night": {
-    "percent": -19.3,
+    "percent": -19.2,
     "likelihood": -1
    },
    "night_after": {
-    "percent": -18.7,
+    "percent": -18.5,
     "likelihood": -1
    },
    "calibrating": false,
@@ -12958,7 +12958,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -581,
+   "net_transfers_gw": -579,
    "owned_pct": 1.2
   },
   {
@@ -13066,7 +13066,7 @@
    "status": "i",
    "news": "Knee injury - Unknown return date",
    "chance_next_round": 0,
-   "net_transfers_gw": -26181,
+   "net_transfers_gw": -26219,
    "owned_pct": 5.6
   },
   {
@@ -13081,11 +13081,11 @@
     "likelihood": 3
    },
    "next_night": {
-    "percent": 50.3,
+    "percent": 50.1,
     "likelihood": 3
    },
    "night_after": {
-    "percent": 50.1,
+    "percent": 49.8,
     "likelihood": 3
    },
    "calibrating": false,
@@ -13093,7 +13093,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": -10168,
+   "net_transfers_gw": -10180,
    "owned_pct": 2.3
   },
   {
@@ -13108,11 +13108,11 @@
     "likelihood": -3
    },
    "next_night": {
-    "percent": -56.7,
+    "percent": -56.9,
     "likelihood": -3
    },
    "night_after": {
-    "percent": -55.9,
+    "percent": -56.4,
     "likelihood": -3
    },
    "calibrating": false,
@@ -13120,7 +13120,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": 18557,
+   "net_transfers_gw": 18582,
    "owned_pct": 33.5
   },
   {
@@ -13131,15 +13131,15 @@
    "cost_change_event": 0,
    "progress_now": 77.1,
    "tonight": {
-    "percent": 77.0,
+    "percent": 77.1,
     "likelihood": 3
    },
    "next_night": {
-    "percent": 76.5,
+    "percent": 76.8,
     "likelihood": 3
    },
    "night_after": {
-    "percent": 76.0,
+    "percent": 76.6,
     "likelihood": 3
    },
    "calibrating": false,
@@ -13147,7 +13147,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": -13413,
+   "net_transfers_gw": -13420,
    "owned_pct": 4.5
   },
   {
@@ -13210,17 +13210,17 @@
    "pos": "MID",
    "price": 5.3,
    "cost_change_event": 0,
-   "progress_now": -60.9,
+   "progress_now": -61.0,
    "tonight": {
-    "percent": -60.9,
+    "percent": -61.0,
     "likelihood": -3
    },
    "next_night": {
-    "percent": -60.9,
+    "percent": -61.0,
     "likelihood": -3
    },
    "night_after": {
-    "percent": -60.9,
+    "percent": -61.0,
     "likelihood": -3
    },
    "calibrating": false,
@@ -13351,11 +13351,11 @@
     "likelihood": 1
    },
    "next_night": {
-    "percent": 16.8,
+    "percent": 16.6,
     "likelihood": 1
    },
    "night_after": {
-    "percent": 16.5,
+    "percent": 16.1,
     "likelihood": 1
    },
    "calibrating": false,
@@ -13363,7 +13363,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": -26058,
+   "net_transfers_gw": -26073,
    "owned_pct": 78.9
   },
   {
@@ -13372,17 +13372,17 @@
    "pos": "MID",
    "price": 6.2,
    "cost_change_event": -1,
-   "progress_now": -1.3,
+   "progress_now": -1.4,
    "tonight": {
     "percent": -1.4,
     "likelihood": -1
    },
    "next_night": {
-    "percent": -1.7,
+    "percent": -1.6,
     "likelihood": -1
    },
    "night_after": {
-    "percent": -2.1,
+    "percent": -1.9,
     "likelihood": -1
    },
    "calibrating": false,
@@ -13390,7 +13390,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": -6955,
+   "net_transfers_gw": -6965,
    "owned_pct": 3.6
   },
   {
@@ -13426,25 +13426,25 @@
    "pos": "MID",
    "price": 5.5,
    "cost_change_event": 0,
-   "progress_now": -35.5,
+   "progress_now": -35.6,
    "tonight": {
     "percent": -35.6,
     "likelihood": -2
    },
    "next_night": {
-    "percent": -37.9,
+    "percent": -36.7,
     "likelihood": -2
    },
    "night_after": {
-    "percent": -40.2,
-    "likelihood": -3
+    "percent": -37.9,
+    "likelihood": -2
    },
    "calibrating": false,
    "locked_until": null,
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -663,
+   "net_transfers_gw": -664,
    "owned_pct": 0.2
   },
   {
@@ -13459,19 +13459,19 @@
     "likelihood": -2
    },
    "next_night": {
-    "percent": -40.2,
-    "likelihood": -3
+    "percent": -38.2,
+    "likelihood": -2
    },
    "night_after": {
-    "percent": -42.2,
-    "likelihood": -3
+    "percent": -38.2,
+    "likelihood": -2
    },
    "calibrating": false,
    "locked_until": null,
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -183,
+   "net_transfers_gw": -184,
    "owned_pct": 0.1
   },
   {
@@ -13567,11 +13567,11 @@
     "likelihood": -1
    },
    "next_night": {
-    "percent": -5.6,
+    "percent": -5.5,
     "likelihood": -1
    },
    "night_after": {
-    "percent": -5.8,
+    "percent": -5.7,
     "likelihood": -1
    },
    "calibrating": false,
@@ -13579,7 +13579,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": -1770,
+   "net_transfers_gw": -1772,
    "owned_pct": 1.2
   },
   {
@@ -13598,7 +13598,7 @@
     "likelihood": 1
    },
    "night_after": {
-    "percent": 2.1,
+    "percent": 2.0,
     "likelihood": 1
    },
    "calibrating": false,
@@ -13606,7 +13606,7 @@
    "status": "i",
    "news": "Hamstring injury - Unknown return date",
    "chance_next_round": 0,
-   "net_transfers_gw": -3146,
+   "net_transfers_gw": -3149,
    "owned_pct": 0.2
   },
   {
@@ -13669,17 +13669,17 @@
    "pos": "GKP",
    "price": 4.8,
    "cost_change_event": 0,
-   "progress_now": -52.0,
+   "progress_now": -52.1,
    "tonight": {
     "percent": -52.1,
     "likelihood": -3
    },
    "next_night": {
-    "percent": -52.9,
+    "percent": -52.7,
     "likelihood": -3
    },
    "night_after": {
-    "percent": -53.7,
+    "percent": -53.3,
     "likelihood": -3
    },
    "calibrating": false,
@@ -13687,7 +13687,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -18169,
+   "net_transfers_gw": -18193,
    "owned_pct": 7.2
   },
   {
@@ -13795,7 +13795,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": 9,
+   "net_transfers_gw": 8,
    "owned_pct": 0.0
   },
   {
@@ -13810,11 +13810,11 @@
     "likelihood": -1
    },
    "next_night": {
-    "percent": -8.7,
+    "percent": -8.6,
     "likelihood": -1
    },
    "night_after": {
-    "percent": -9.1,
+    "percent": -8.7,
     "likelihood": -1
    },
    "calibrating": false,
@@ -13822,7 +13822,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -3164,
+   "net_transfers_gw": -3166,
    "owned_pct": 1.2
   },
   {
@@ -13837,19 +13837,19 @@
     "likelihood": -1
    },
    "next_night": {
-    "percent": -18.7,
+    "percent": -18.1,
     "likelihood": -1
    },
    "night_after": {
-    "percent": -20.0,
-    "likelihood": -2
+    "percent": -18.9,
+    "likelihood": -1
    },
    "calibrating": false,
    "locked_until": null,
    "status": "d",
    "news": "Back injury - 75% chance of playing",
    "chance_next_round": 75,
-   "net_transfers_gw": -17824,
+   "net_transfers_gw": -17857,
    "owned_pct": 5.1
   },
   {
@@ -13876,7 +13876,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": -2830,
+   "net_transfers_gw": -2831,
    "owned_pct": 0.9
   },
   {
@@ -13891,11 +13891,11 @@
     "likelihood": -2
    },
    "next_night": {
-    "percent": -26.6,
+    "percent": -27.1,
     "likelihood": -2
    },
    "night_after": {
-    "percent": -26.2,
+    "percent": -27.1,
     "likelihood": -2
    },
    "calibrating": false,
@@ -13903,7 +13903,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -306,
+   "net_transfers_gw": -307,
    "owned_pct": 0.5
   },
   {
@@ -13918,11 +13918,11 @@
     "likelihood": -3
    },
    "next_night": {
-    "percent": -89.5,
+    "percent": -90.5,
     "likelihood": -3
    },
    "night_after": {
-    "percent": -89.5,
+    "percent": -91.4,
     "likelihood": -3
    },
    "calibrating": false,
@@ -13930,7 +13930,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": -294,
+   "net_transfers_gw": -295,
    "owned_pct": 0.2
   },
   {
@@ -13945,11 +13945,11 @@
     "likelihood": -3
    },
    "next_night": {
-    "percent": -41.1,
+    "percent": -41.7,
     "likelihood": -3
    },
    "night_after": {
-    "percent": -41.1,
+    "percent": -42.2,
     "likelihood": -3
    },
    "calibrating": false,
@@ -13957,7 +13957,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": -312,
+   "net_transfers_gw": -313,
    "owned_pct": 0.4
   },
   {
@@ -13972,11 +13972,11 @@
     "likelihood": -3
    },
    "next_night": {
-    "percent": -64.4,
+    "percent": -64.3,
     "likelihood": -3
    },
    "night_after": {
-    "percent": -64.9,
+    "percent": -64.7,
     "likelihood": -3
    },
    "calibrating": false,
@@ -13984,7 +13984,7 @@
    "status": "i",
    "news": "Unspecified injury - Unknown return date",
    "chance_next_round": 0,
-   "net_transfers_gw": -13699,
+   "net_transfers_gw": -13717,
    "owned_pct": 3.3
   },
   {
@@ -14053,11 +14053,11 @@
     "likelihood": -1
    },
    "next_night": {
-    "percent": -3.8,
+    "percent": -3.7,
     "likelihood": -1
    },
    "night_after": {
-    "percent": -4.0,
+    "percent": -3.8,
     "likelihood": -1
    },
    "calibrating": false,
@@ -14065,7 +14065,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -33920,
+   "net_transfers_gw": -33936,
    "owned_pct": 20.4
   },
   {
@@ -14080,11 +14080,11 @@
     "likelihood": -3
    },
    "next_night": {
-    "percent": -79.5,
+    "percent": -79.3,
     "likelihood": -3
    },
    "night_after": {
-    "percent": -80.4,
+    "percent": -80.0,
     "likelihood": -3
    },
    "calibrating": false,
@@ -14092,7 +14092,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -72582,
+   "net_transfers_gw": -72649,
    "owned_pct": 19.1
   },
   {
@@ -14119,7 +14119,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -1188,
+   "net_transfers_gw": -1193,
    "owned_pct": 5.6
   },
   {
@@ -14128,17 +14128,17 @@
    "pos": "MID",
    "price": 6.8,
    "cost_change_event": 0,
-   "progress_now": -33.8,
+   "progress_now": -33.9,
    "tonight": {
     "percent": -33.9,
     "likelihood": -2
    },
    "next_night": {
-    "percent": -34.3,
+    "percent": -34.2,
     "likelihood": -2
    },
    "night_after": {
-    "percent": -34.8,
+    "percent": -34.4,
     "likelihood": -2
    },
    "calibrating": false,
@@ -14146,7 +14146,7 @@
    "status": "i",
    "news": "Hip injury - Unknown return date",
    "chance_next_round": 0,
-   "net_transfers_gw": -4262,
+   "net_transfers_gw": -4268,
    "owned_pct": 0.9
   },
   {
@@ -14192,15 +14192,15 @@
     "likelihood": 1
    },
    "night_after": {
-    "percent": 0.0,
-    "likelihood": 0
+    "percent": 0.1,
+    "likelihood": 1
    },
    "calibrating": false,
    "locked_until": null,
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": -1,
+   "net_transfers_gw": 0,
    "owned_pct": 0.3
   },
   {
@@ -14308,7 +14308,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": 563,
+   "net_transfers_gw": 564,
    "owned_pct": 0.1
   },
   {
@@ -14346,15 +14346,15 @@
    "cost_change_event": 0,
    "progress_now": -42.2,
    "tonight": {
-    "percent": -42.3,
+    "percent": -42.2,
     "likelihood": -3
    },
    "next_night": {
-    "percent": -43.7,
+    "percent": -42.2,
     "likelihood": -3
    },
    "night_after": {
-    "percent": -45.0,
+    "percent": -42.2,
     "likelihood": -3
    },
    "calibrating": false,
@@ -14389,7 +14389,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -540,
+   "net_transfers_gw": -541,
    "owned_pct": 0.3
   },
   {
@@ -14398,17 +14398,17 @@
    "pos": "FWD",
    "price": 6.9,
    "cost_change_event": 0,
-   "progress_now": -78.5,
+   "progress_now": -78.6,
    "tonight": {
     "percent": -78.6,
     "likelihood": -3
    },
    "next_night": {
-    "percent": -79.1,
+    "percent": -78.6,
     "likelihood": -3
    },
    "night_after": {
-    "percent": -79.6,
+    "percent": -78.6,
     "likelihood": -3
    },
    "calibrating": false,
@@ -14443,7 +14443,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -513,
+   "net_transfers_gw": -514,
    "owned_pct": 0.4
   },
   {
@@ -14470,7 +14470,7 @@
    "status": "u",
    "news": "Has joined Willem II on loan for the rest of the season",
    "chance_next_round": 0,
-   "net_transfers_gw": -2125,
+   "net_transfers_gw": -2126,
    "owned_pct": 0.6
   },
   {
@@ -14497,7 +14497,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": -480,
+   "net_transfers_gw": -481,
    "owned_pct": 0.2
   },
   {
@@ -14512,11 +14512,11 @@
     "likelihood": -1
    },
    "next_night": {
-    "percent": -3.5,
+    "percent": -3.2,
     "likelihood": -1
    },
    "night_after": {
-    "percent": -4.0,
+    "percent": -3.4,
     "likelihood": -1
    },
    "calibrating": false,
@@ -14524,7 +14524,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -929,
+   "net_transfers_gw": -931,
    "owned_pct": 0.9
   },
   {
@@ -14535,15 +14535,15 @@
    "cost_change_event": 0,
    "progress_now": -63.4,
    "tonight": {
-    "percent": -63.6,
+    "percent": -63.4,
     "likelihood": -3
    },
    "next_night": {
-    "percent": -70.5,
+    "percent": -63.4,
     "likelihood": -3
    },
    "night_after": {
-    "percent": -77.3,
+    "percent": -63.4,
     "likelihood": -3
    },
    "calibrating": false,
@@ -14587,25 +14587,25 @@
    "pos": "DEF",
    "price": 4.9,
    "cost_change_event": 0,
-   "progress_now": -38.4,
+   "progress_now": -38.5,
    "tonight": {
-    "percent": -38.4,
+    "percent": -38.5,
     "likelihood": -2
    },
    "next_night": {
-    "percent": -38.9,
+    "percent": -39.3,
     "likelihood": -2
    },
    "night_after": {
-    "percent": -39.3,
-    "likelihood": -2
+    "percent": -40.1,
+    "likelihood": -3
    },
    "calibrating": false,
    "locked_until": null,
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -5134,
+   "net_transfers_gw": -5140,
    "owned_pct": 1.4
   },
   {
@@ -14632,7 +14632,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": -495,
+   "net_transfers_gw": -496,
    "owned_pct": 0.2
   },
   {
@@ -14647,11 +14647,11 @@
     "likelihood": 1
    },
    "next_night": {
-    "percent": 6.7,
+    "percent": 6.6,
     "likelihood": 1
    },
    "night_after": {
-    "percent": 6.6,
+    "percent": 6.5,
     "likelihood": 1
    },
    "calibrating": false,
@@ -14659,7 +14659,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -3316,
+   "net_transfers_gw": -3320,
    "owned_pct": 0.7
   },
   {
@@ -14686,7 +14686,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": 100,
+   "net_transfers_gw": 101,
    "owned_pct": 0.7
   },
   {
@@ -14713,7 +14713,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -62262,
+   "net_transfers_gw": -62314,
    "owned_pct": 18.2
   },
   {
@@ -14782,11 +14782,11 @@
     "likelihood": -3
    },
    "next_night": {
-    "percent": -83.7,
+    "percent": -83.4,
     "likelihood": -3
    },
    "night_after": {
-    "percent": -85.0,
+    "percent": -84.5,
     "likelihood": -3
    },
    "calibrating": false,
@@ -14794,7 +14794,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -38941,
+   "net_transfers_gw": -38972,
    "owned_pct": 6.6
   },
   {
@@ -14805,15 +14805,15 @@
    "cost_change_event": 0,
    "progress_now": -19.0,
    "tonight": {
-    "percent": -19.1,
+    "percent": -19.0,
     "likelihood": -1
    },
    "next_night": {
-    "percent": -19.3,
+    "percent": -19.0,
     "likelihood": -1
    },
    "night_after": {
-    "percent": -19.6,
+    "percent": -19.0,
     "likelihood": -1
    },
    "calibrating": false,
@@ -14821,7 +14821,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": -3851,
+   "net_transfers_gw": -3849,
    "owned_pct": 2.3
   },
   {
@@ -14848,7 +14848,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": -206,
+   "net_transfers_gw": -207,
    "owned_pct": 0.1
   },
   {
@@ -14863,11 +14863,11 @@
     "likelihood": -3
    },
    "next_night": {
-    "percent": -43.8,
+    "percent": -42.2,
     "likelihood": -3
    },
    "night_after": {
-    "percent": -43.8,
+    "percent": -40.6,
     "likelihood": -3
    },
    "calibrating": false,
@@ -14875,7 +14875,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": 590,
+   "net_transfers_gw": 591,
    "owned_pct": 0.1
   },
   {
@@ -14956,7 +14956,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -2326,
+   "net_transfers_gw": -2327,
    "owned_pct": 0.5
   },
   {
@@ -15052,11 +15052,11 @@
     "likelihood": -2
    },
    "next_night": {
-    "percent": -28.7,
+    "percent": -28.3,
     "likelihood": -2
    },
    "night_after": {
-    "percent": -29.7,
+    "percent": -29.0,
     "likelihood": -2
    },
    "calibrating": false,
@@ -15064,7 +15064,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -58714,
+   "net_transfers_gw": -58758,
    "owned_pct": 8.3
   },
   {
@@ -15075,15 +15075,15 @@
    "cost_change_event": 0,
    "progress_now": 6.1,
    "tonight": {
-    "percent": 6.0,
+    "percent": 6.1,
     "likelihood": 1
    },
    "next_night": {
-    "percent": 6.0,
+    "percent": 6.1,
     "likelihood": 1
    },
    "night_after": {
-    "percent": 5.9,
+    "percent": 6.1,
     "likelihood": 1
    },
    "calibrating": false,
@@ -15118,7 +15118,7 @@
    "status": "u",
    "news": "Has joined Wolves on loan for the rest of the season",
    "chance_next_round": 0,
-   "net_transfers_gw": -1009,
+   "net_transfers_gw": -1011,
    "owned_pct": 0.4
   },
   {
@@ -15127,17 +15127,17 @@
    "pos": "MID",
    "price": 4.8,
    "cost_change_event": 0,
-   "progress_now": -67.5,
+   "progress_now": -67.6,
    "tonight": {
-    "percent": -67.5,
+    "percent": -67.6,
     "likelihood": -3
    },
    "next_night": {
-    "percent": -67.5,
+    "percent": -70.3,
     "likelihood": -3
    },
    "night_after": {
-    "percent": -67.5,
+    "percent": -73.0,
     "likelihood": -3
    },
    "calibrating": false,
@@ -15145,7 +15145,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -91,
+   "net_transfers_gw": -92,
    "owned_pct": 0.1
   },
   {
@@ -15164,7 +15164,7 @@
     "likelihood": 1
    },
    "night_after": {
-    "percent": 9.8,
+    "percent": 9.7,
     "likelihood": 1
    },
    "calibrating": false,
@@ -15172,7 +15172,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -3496,
+   "net_transfers_gw": -3499,
    "owned_pct": 1.2
   },
   {
@@ -15187,11 +15187,11 @@
     "likelihood": -1
    },
    "next_night": {
-    "percent": -9.3,
+    "percent": -8.9,
     "likelihood": -1
    },
    "night_after": {
-    "percent": -9.6,
+    "percent": -8.9,
     "likelihood": -1
    },
    "calibrating": false,
@@ -15241,11 +15241,11 @@
     "likelihood": -1
    },
    "next_night": {
-    "percent": -8.5,
+    "percent": -10.2,
     "likelihood": -1
    },
    "night_after": {
-    "percent": -6.8,
+    "percent": -10.2,
     "likelihood": -1
    },
    "calibrating": false,
@@ -15334,7 +15334,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -971,
+   "net_transfers_gw": -972,
    "owned_pct": 0.3
   },
   {
@@ -15361,7 +15361,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": 12,
+   "net_transfers_gw": 13,
    "owned_pct": 0.0
   },
   {
@@ -15397,17 +15397,17 @@
    "pos": "FWD",
    "price": 5.3,
    "cost_change_event": -1,
-   "progress_now": 14.2,
+   "progress_now": 14.3,
    "tonight": {
     "percent": 14.3,
     "likelihood": 1
    },
    "next_night": {
-    "percent": 14.8,
+    "percent": 14.6,
     "likelihood": 1
    },
    "night_after": {
-    "percent": 15.2,
+    "percent": 14.9,
     "likelihood": 1
    },
    "calibrating": false,
@@ -15415,7 +15415,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": 19912,
+   "net_transfers_gw": 19930,
    "owned_pct": 1.6
   },
   {
@@ -15430,11 +15430,11 @@
     "likelihood": -1
    },
    "next_night": {
-    "percent": -4.4,
+    "percent": -4.3,
     "likelihood": -1
    },
    "night_after": {
-    "percent": -4.7,
+    "percent": -4.4,
     "likelihood": -1
    },
    "calibrating": false,
@@ -15442,7 +15442,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -7443,
+   "net_transfers_gw": -7449,
    "owned_pct": 4.2
   },
   {
@@ -15457,11 +15457,11 @@
     "likelihood": -3
    },
    "next_night": {
-    "percent": -69.2,
+    "percent": -69.1,
     "likelihood": -3
    },
    "night_after": {
-    "percent": -69.4,
+    "percent": -69.1,
     "likelihood": -3
    },
    "calibrating": false,
@@ -15469,7 +15469,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -1498,
+   "net_transfers_gw": -1500,
    "owned_pct": 1.3
   },
   {
@@ -15511,11 +15511,11 @@
     "likelihood": -2
    },
    "next_night": {
-    "percent": -24.2,
+    "percent": -24.1,
     "likelihood": -2
    },
    "night_after": {
-    "percent": -24.7,
+    "percent": -24.4,
     "likelihood": -2
    },
    "calibrating": false,
@@ -15523,7 +15523,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": -8000,
+   "net_transfers_gw": -8011,
    "owned_pct": 5.3
   },
   {
@@ -15565,19 +15565,19 @@
     "likelihood": -1
    },
    "next_night": {
-    "percent": -19.7,
-    "likelihood": -1
+    "percent": -20.2,
+    "likelihood": -2
    },
    "night_after": {
-    "percent": -19.7,
-    "likelihood": -1
+    "percent": -20.7,
+    "likelihood": -2
    },
    "calibrating": false,
    "locked_until": null,
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": -123,
+   "net_transfers_gw": -124,
    "owned_pct": 0.7
   },
   {
@@ -15596,7 +15596,7 @@
     "likelihood": 1
    },
    "night_after": {
-    "percent": 15.6,
+    "percent": 15.7,
     "likelihood": 1
    },
    "calibrating": false,
@@ -15604,7 +15604,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": 17,
+   "net_transfers_gw": 14,
    "owned_pct": 2.0
   },
   {
@@ -15631,7 +15631,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -3574,
+   "net_transfers_gw": -3577,
    "owned_pct": 1.4
   },
   {
@@ -15658,7 +15658,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": 1321,
+   "net_transfers_gw": 1322,
    "owned_pct": 0.2
   },
   {
@@ -15700,11 +15700,11 @@
     "likelihood": 1
    },
    "next_night": {
-    "percent": 1.7,
+    "percent": 1.6,
     "likelihood": 1
    },
    "night_after": {
-    "percent": 1.7,
+    "percent": 1.6,
     "likelihood": 1
    },
    "calibrating": false,
@@ -15808,11 +15808,11 @@
     "likelihood": -2
    },
    "next_night": {
-    "percent": -35.1,
+    "percent": -34.8,
     "likelihood": -2
    },
    "night_after": {
-    "percent": -35.5,
+    "percent": -35.0,
     "likelihood": -2
    },
    "calibrating": false,
@@ -15820,7 +15820,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": -10197,
+   "net_transfers_gw": -10204,
    "owned_pct": 9.3
   },
   {
@@ -15862,7 +15862,7 @@
     "likelihood": 1
    },
    "next_night": {
-    "percent": 2.8,
+    "percent": 2.9,
     "likelihood": 1
    },
    "night_after": {
@@ -15874,7 +15874,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": -2015,
+   "net_transfers_gw": -2016,
    "owned_pct": 0.5
   },
   {
@@ -15970,11 +15970,11 @@
     "likelihood": -3
    },
    "next_night": {
-    "percent": -50.9,
+    "percent": -49.1,
     "likelihood": -3
    },
    "night_after": {
-    "percent": -52.6,
+    "percent": -49.1,
     "likelihood": -3
    },
    "calibrating": false,
@@ -15993,15 +15993,15 @@
    "cost_change_event": 0,
    "progress_now": -44.0,
    "tonight": {
-    "percent": -44.1,
+    "percent": -44.0,
     "likelihood": -3
    },
    "next_night": {
-    "percent": -46.6,
+    "percent": -44.0,
     "likelihood": -3
    },
    "night_after": {
-    "percent": -49.2,
+    "percent": -44.0,
     "likelihood": -3
    },
    "calibrating": false,
@@ -16024,11 +16024,11 @@
     "likelihood": -3
    },
    "next_night": {
-    "percent": -74.9,
+    "percent": -73.9,
     "likelihood": -3
    },
    "night_after": {
-    "percent": -75.8,
+    "percent": -73.9,
     "likelihood": -3
    },
    "calibrating": false,
@@ -16063,7 +16063,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -1816,
+   "net_transfers_gw": -1819,
    "owned_pct": 0.7
   },
   {
@@ -16090,7 +16090,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": -1440,
+   "net_transfers_gw": -1443,
    "owned_pct": 1.1
   },
   {
@@ -16126,17 +16126,17 @@
    "pos": "MID",
    "price": 5.0,
    "cost_change_event": 0,
-   "progress_now": -33.6,
+   "progress_now": -33.5,
    "tonight": {
     "percent": -33.5,
     "likelihood": -2
    },
    "next_night": {
-    "percent": -31.2,
+    "percent": -33.5,
     "likelihood": -2
    },
    "night_after": {
-    "percent": -28.9,
+    "percent": -33.5,
     "likelihood": -2
    },
    "calibrating": false,
@@ -16144,7 +16144,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": 344,
+   "net_transfers_gw": 345,
    "owned_pct": 0.1
   },
   {
@@ -16159,11 +16159,11 @@
     "likelihood": -3
    },
    "next_night": {
-    "percent": -47.2,
+    "percent": -45.6,
     "likelihood": -3
    },
    "night_after": {
-    "percent": -48.7,
+    "percent": -45.6,
     "likelihood": -3
    },
    "calibrating": false,
@@ -16171,7 +16171,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -817,
+   "net_transfers_gw": -818,
    "owned_pct": 0.5
   },
   {
@@ -16213,11 +16213,11 @@
     "likelihood": 1
    },
    "next_night": {
-    "percent": 13.3,
+    "percent": 13.2,
     "likelihood": 1
    },
    "night_after": {
-    "percent": 14.7,
+    "percent": 14.5,
     "likelihood": 1
    },
    "calibrating": false,
@@ -16225,7 +16225,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": 168863,
+   "net_transfers_gw": 169053,
    "owned_pct": 14.7
   },
   {
@@ -16252,7 +16252,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": -62,
+   "net_transfers_gw": -61,
    "owned_pct": 0.1
   },
   {
@@ -16267,11 +16267,11 @@
     "likelihood": 3
    },
    "next_night": {
-    "percent": 75.8,
+    "percent": 75.7,
     "likelihood": 3
    },
    "night_after": {
-    "percent": 75.7,
+    "percent": 75.6,
     "likelihood": 3
    },
    "calibrating": false,
@@ -16279,7 +16279,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": -6876,
+   "net_transfers_gw": -6880,
    "owned_pct": 2.5
   },
   {
@@ -16290,16 +16290,16 @@
    "cost_change_event": 0,
    "progress_now": -19.4,
    "tonight": {
-    "percent": -19.5,
+    "percent": -19.4,
     "likelihood": -1
    },
    "next_night": {
-    "percent": -19.9,
+    "percent": -19.4,
     "likelihood": -1
    },
    "night_after": {
-    "percent": -20.3,
-    "likelihood": -2
+    "percent": -19.4,
+    "likelihood": -1
    },
    "calibrating": false,
    "locked_until": null,
@@ -16321,11 +16321,11 @@
     "likelihood": 1
    },
    "next_night": {
-    "percent": 15.4,
+    "percent": 15.6,
     "likelihood": 1
    },
    "night_after": {
-    "percent": 15.3,
+    "percent": 15.6,
     "likelihood": 1
    },
    "calibrating": false,
@@ -16333,7 +16333,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": -3176,
+   "net_transfers_gw": -3178,
    "owned_pct": 2.0
   },
   {
@@ -16387,7 +16387,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -374,
+   "net_transfers_gw": -373,
    "owned_pct": 1.0
   },
   {
@@ -16398,7 +16398,7 @@
    "cost_change_event": 0,
    "progress_now": 34.4,
    "tonight": {
-    "percent": 34.4,
+    "percent": 34.5,
     "likelihood": 2
    },
    "next_night": {
@@ -16414,7 +16414,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": 12576,
+   "net_transfers_gw": 12596,
    "owned_pct": 15.6
   },
   {
@@ -16429,11 +16429,11 @@
     "likelihood": -3
    },
    "next_night": {
-    "percent": -87.7,
+    "percent": -87.6,
     "likelihood": -3
    },
    "night_after": {
-    "percent": -87.9,
+    "percent": -87.8,
     "likelihood": -3
    },
    "calibrating": false,
@@ -16441,7 +16441,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -13811,
+   "net_transfers_gw": -13823,
    "owned_pct": 15.2
   },
   {
@@ -16456,11 +16456,11 @@
     "likelihood": -3
    },
    "next_night": {
-    "percent": -69.3,
+    "percent": -69.4,
     "likelihood": -3
    },
    "night_after": {
-    "percent": -69.3,
+    "percent": -69.5,
     "likelihood": -3
    },
    "calibrating": false,
@@ -16468,7 +16468,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -3577,
+   "net_transfers_gw": -3581,
    "owned_pct": 2.9
   },
   {
@@ -16483,11 +16483,11 @@
     "likelihood": -1
    },
    "next_night": {
-    "percent": -1.2,
+    "percent": -1.4,
     "likelihood": -1
    },
    "night_after": {
-    "percent": -0.9,
+    "percent": -1.3,
     "likelihood": -1
    },
    "calibrating": false,
@@ -16495,7 +16495,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": 5111,
+   "net_transfers_gw": 5108,
    "owned_pct": 4.9
   },
   {
@@ -16541,7 +16541,7 @@
     "likelihood": 2
    },
    "night_after": {
-    "percent": 30.1,
+    "percent": 29.9,
     "likelihood": 2
    },
    "calibrating": false,
@@ -16549,7 +16549,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": 9196,
+   "net_transfers_gw": 9205,
    "owned_pct": 2.7
   },
   {
@@ -16564,11 +16564,11 @@
     "likelihood": -1
    },
    "next_night": {
-    "percent": -1.3,
+    "percent": -1.5,
     "likelihood": -1
    },
    "night_after": {
-    "percent": -0.9,
+    "percent": -1.4,
     "likelihood": -1
    },
    "calibrating": false,
@@ -16576,7 +16576,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": -349,
+   "net_transfers_gw": -348,
    "owned_pct": 3.9
   },
   {
@@ -16612,17 +16612,17 @@
    "pos": "DEF",
    "price": 4.4,
    "cost_change_event": 0,
-   "progress_now": -6.5,
+   "progress_now": -6.6,
    "tonight": {
-    "percent": -6.5,
+    "percent": -6.6,
     "likelihood": -1
    },
    "next_night": {
-    "percent": -6.5,
+    "percent": -7.4,
     "likelihood": -1
    },
    "night_after": {
-    "percent": -6.5,
+    "percent": -8.1,
     "likelihood": -1
    },
    "calibrating": false,
@@ -16630,7 +16630,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": -284,
+   "net_transfers_gw": -285,
    "owned_pct": 0.3
   },
   {
@@ -16676,7 +16676,7 @@
     "likelihood": 1
    },
    "night_after": {
-    "percent": 2.7,
+    "percent": 2.8,
     "likelihood": 1
    },
    "calibrating": false,
@@ -16684,7 +16684,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -1157,
+   "net_transfers_gw": -1158,
    "owned_pct": 1.0
   },
   {
@@ -16693,17 +16693,17 @@
    "pos": "DEF",
    "price": 4.0,
    "cost_change_event": 0,
-   "progress_now": -10.1,
+   "progress_now": -10.0,
    "tonight": {
-    "percent": -10.1,
+    "percent": -9.9,
     "likelihood": -1
    },
    "next_night": {
-    "percent": -10.1,
+    "percent": -6.3,
     "likelihood": -1
    },
    "night_after": {
-    "percent": -10.1,
+    "percent": -2.7,
     "likelihood": -1
    },
    "calibrating": false,
@@ -16711,7 +16711,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -15,
+   "net_transfers_gw": -14,
    "owned_pct": 0.1
   },
   {
@@ -16720,17 +16720,17 @@
    "pos": "DEF",
    "price": 4.0,
    "cost_change_event": 0,
-   "progress_now": -58.9,
+   "progress_now": -59.0,
    "tonight": {
-    "percent": -58.9,
+    "percent": -59.0,
     "likelihood": -3
    },
    "next_night": {
-    "percent": -58.9,
+    "percent": -59.0,
     "likelihood": -3
    },
    "night_after": {
-    "percent": -58.9,
+    "percent": -59.0,
     "likelihood": -3
    },
    "calibrating": false,
@@ -16738,7 +16738,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -61,
+   "net_transfers_gw": -63,
    "owned_pct": 0.1
   },
   {
@@ -16774,17 +16774,17 @@
    "pos": "MID",
    "price": 6.6,
    "cost_change_event": 0,
-   "progress_now": 9.2,
+   "progress_now": 9.3,
    "tonight": {
     "percent": 9.3,
     "likelihood": 1
    },
    "next_night": {
-    "percent": 9.5,
+    "percent": 9.4,
     "likelihood": 1
    },
    "night_after": {
-    "percent": 9.7,
+    "percent": 9.6,
     "likelihood": 1
    },
    "calibrating": false,
@@ -16792,7 +16792,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": 7675,
+   "net_transfers_gw": 7685,
    "owned_pct": 2.0
   },
   {
@@ -16834,11 +16834,11 @@
     "likelihood": 2
    },
    "next_night": {
-    "percent": 21.8,
+    "percent": 22.0,
     "likelihood": 2
    },
    "night_after": {
-    "percent": 21.6,
+    "percent": 21.9,
     "likelihood": 2
    },
    "calibrating": false,
@@ -16846,7 +16846,7 @@
    "status": "d",
    "news": "Ankle injury - 75% chance of playing",
    "chance_next_round": 75,
-   "net_transfers_gw": -5183,
+   "net_transfers_gw": -5184,
    "owned_pct": 0.5
   },
   {
@@ -16865,7 +16865,7 @@
     "likelihood": 1
    },
    "night_after": {
-    "percent": 13.9,
+    "percent": 14.0,
     "likelihood": 1
    },
    "calibrating": false,
@@ -16873,7 +16873,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": -1254,
+   "net_transfers_gw": -1257,
    "owned_pct": 0.6
   },
   {
@@ -16965,15 +16965,15 @@
    "cost_change_event": 0,
    "progress_now": -30.0,
    "tonight": {
-    "percent": -29.9,
+    "percent": -30.0,
     "likelihood": -2
    },
    "next_night": {
-    "percent": -28.7,
+    "percent": -30.0,
     "likelihood": -2
    },
    "night_after": {
-    "percent": -27.5,
+    "percent": -30.0,
     "likelihood": -2
    },
    "calibrating": false,
@@ -16996,11 +16996,11 @@
     "likelihood": -3
    },
    "next_night": {
-    "percent": -65.4,
+    "percent": -64.7,
     "likelihood": -3
    },
    "night_after": {
-    "percent": -66.1,
+    "percent": -64.7,
     "likelihood": -3
    },
    "calibrating": false,
@@ -17035,7 +17035,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": 52,
+   "net_transfers_gw": 53,
    "owned_pct": 0.1
   },
   {
@@ -17054,7 +17054,7 @@
     "likelihood": 1
    },
    "night_after": {
-    "percent": 0.5,
+    "percent": 0.6,
     "likelihood": 1
    },
    "calibrating": false,
@@ -17062,7 +17062,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": 152,
+   "net_transfers_gw": 153,
    "owned_pct": 0.2
   },
   {
@@ -17104,11 +17104,11 @@
     "likelihood": -2
    },
    "next_night": {
-    "percent": -31.2,
+    "percent": -30.4,
     "likelihood": -2
    },
    "night_after": {
-    "percent": -31.9,
+    "percent": -30.4,
     "likelihood": -2
    },
    "calibrating": false,
@@ -17131,11 +17131,11 @@
     "likelihood": 1
    },
    "next_night": {
-    "percent": 3.0,
+    "percent": 3.1,
     "likelihood": 1
    },
    "night_after": {
-    "percent": 3.0,
+    "percent": 3.2,
     "likelihood": 1
    },
    "calibrating": false,
@@ -17143,7 +17143,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": 929,
+   "net_transfers_gw": 934,
    "owned_pct": 0.7
   },
   {
@@ -17152,9 +17152,9 @@
    "pos": "FWD",
    "price": 5.8,
    "cost_change_event": 0,
-   "progress_now": 34.4,
+   "progress_now": 34.5,
    "tonight": {
-    "percent": 34.4,
+    "percent": 34.5,
     "likelihood": 2
    },
    "next_night": {
@@ -17162,7 +17162,7 @@
     "likelihood": 2
    },
    "night_after": {
-    "percent": 34.3,
+    "percent": 34.4,
     "likelihood": 2
    },
    "calibrating": false,
@@ -17170,7 +17170,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -6016,
+   "net_transfers_gw": -6017,
    "owned_pct": 1.4
   },
   {
@@ -17197,7 +17197,7 @@
    "status": "u",
    "news": "not included in squad.",
    "chance_next_round": 0,
-   "net_transfers_gw": -501,
+   "net_transfers_gw": -502,
    "owned_pct": 0.5
   },
   {
@@ -17224,7 +17224,7 @@
    "status": "u",
    "news": "Has joined Leyton Orient permanently",
    "chance_next_round": 0,
-   "net_transfers_gw": -2451,
+   "net_transfers_gw": -2453,
    "owned_pct": 0.8
   },
   {
@@ -17270,7 +17270,7 @@
     "likelihood": 1
    },
    "night_after": {
-    "percent": 0.8,
+    "percent": 0.7,
     "likelihood": 1
    },
    "calibrating": false,
@@ -17278,7 +17278,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": 246,
+   "net_transfers_gw": 245,
    "owned_pct": 0.1
   },
   {
@@ -17305,7 +17305,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": 1872,
+   "net_transfers_gw": 1874,
    "owned_pct": 0.0
   },
   {
@@ -17347,11 +17347,11 @@
     "likelihood": -4
    },
    "next_night": {
-    "percent": -99.0,
+    "percent": -99.3,
     "likelihood": -4
    },
    "night_after": {
-    "percent": -99.2,
+    "percent": -99.6,
     "likelihood": -4
    },
    "calibrating": false,
@@ -17428,11 +17428,11 @@
     "likelihood": -1
    },
    "next_night": {
-    "percent": -14.9,
+    "percent": -15.0,
     "likelihood": -1
    },
    "night_after": {
-    "percent": -15.2,
+    "percent": -15.4,
     "likelihood": -1
    },
    "calibrating": false,
@@ -17440,7 +17440,7 @@
    "status": "i",
    "news": "Hamstring injury - Unknown return date",
    "chance_next_round": 0,
-   "net_transfers_gw": -3341,
+   "net_transfers_gw": -3345,
    "owned_pct": 0.9
   },
   {
@@ -17455,11 +17455,11 @@
     "likelihood": -1
    },
    "next_night": {
-    "percent": -5.2,
+    "percent": -5.4,
     "likelihood": -1
    },
    "night_after": {
-    "percent": -5.1,
+    "percent": -5.4,
     "likelihood": -1
    },
    "calibrating": false,
@@ -17494,7 +17494,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -2134,
+   "net_transfers_gw": -2133,
    "owned_pct": 1.7
   },
   {
@@ -17532,15 +17532,15 @@
    "cost_change_event": 0,
    "progress_now": -23.4,
    "tonight": {
-    "percent": -23.5,
+    "percent": -23.4,
     "likelihood": -2
    },
    "next_night": {
-    "percent": -25.5,
+    "percent": -23.4,
     "likelihood": -2
    },
    "night_after": {
-    "percent": -27.6,
+    "percent": -23.4,
     "likelihood": -2
    },
    "calibrating": false,
@@ -17602,7 +17602,7 @@
    "status": "u",
    "news": "Has joined KV Mechelen on loan for the rest of the season",
    "chance_next_round": 0,
-   "net_transfers_gw": -39,
+   "net_transfers_gw": -40,
    "owned_pct": 0.0
   },
   {
@@ -17621,7 +17621,7 @@
     "likelihood": 1
    },
    "night_after": {
-    "percent": 1.0,
+    "percent": 1.1,
     "likelihood": 1
    },
    "calibrating": false,
@@ -17629,7 +17629,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": 1365,
+   "net_transfers_gw": 1366,
    "owned_pct": 2.4
   },
   {
@@ -17692,17 +17692,17 @@
    "pos": "MID",
    "price": 5.7,
    "cost_change_event": 0,
-   "progress_now": -67.3,
+   "progress_now": -67.2,
    "tonight": {
     "percent": -67.2,
     "likelihood": -3
    },
    "next_night": {
-    "percent": -65.2,
+    "percent": -65.5,
     "likelihood": -3
    },
    "night_after": {
-    "percent": -63.2,
+    "percent": -63.7,
     "likelihood": -3
    },
    "calibrating": false,
@@ -17710,7 +17710,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": 10251,
+   "net_transfers_gw": 10282,
    "owned_pct": 2.8
   },
   {
@@ -17752,11 +17752,11 @@
     "likelihood": -1
    },
    "next_night": {
-    "percent": -14.1,
+    "percent": -13.9,
     "likelihood": -1
    },
    "night_after": {
-    "percent": -14.7,
+    "percent": -14.3,
     "likelihood": -1
    },
    "calibrating": false,
@@ -17764,7 +17764,7 @@
    "status": "d",
    "news": "Calf injury - 75% chance of playing",
    "chance_next_round": 75,
-   "net_transfers_gw": -16122,
+   "net_transfers_gw": -16138,
    "owned_pct": 2.6
   },
   {
@@ -17791,7 +17791,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": 11,
+   "net_transfers_gw": 10,
    "owned_pct": 0.2
   },
   {
@@ -17945,8 +17945,8 @@
     "likelihood": 0
    },
    "night_after": {
-    "percent": 0.1,
-    "likelihood": 1
+    "percent": 0.0,
+    "likelihood": 0
    },
    "calibrating": false,
    "locked_until": null,
@@ -17968,11 +17968,11 @@
     "likelihood": -3
    },
    "next_night": {
-    "percent": -42.5,
+    "percent": -42.3,
     "likelihood": -3
    },
    "night_after": {
-    "percent": -43.4,
+    "percent": -43.0,
     "likelihood": -3
    },
    "calibrating": false,
@@ -17980,7 +17980,7 @@
    "status": "d",
    "news": "Muscular injury - 75% chance of playing",
    "chance_next_round": 75,
-   "net_transfers_gw": -16158,
+   "net_transfers_gw": -16181,
    "owned_pct": 4.7
   },
   {
@@ -17995,11 +17995,11 @@
     "likelihood": -3
    },
    "next_night": {
-    "percent": -62.8,
+    "percent": -62.1,
     "likelihood": -3
    },
    "night_after": {
-    "percent": -63.9,
+    "percent": -62.6,
     "likelihood": -3
    },
    "calibrating": false,
@@ -18007,7 +18007,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": 100,
-   "net_transfers_gw": -2354,
+   "net_transfers_gw": -2355,
    "owned_pct": 0.7
   },
   {
@@ -18049,11 +18049,11 @@
     "likelihood": -1
    },
    "next_night": {
-    "percent": -3.3,
+    "percent": -4.4,
     "likelihood": -1
    },
    "night_after": {
-    "percent": -0.3,
+    "percent": -2.4,
     "likelihood": -1
    },
    "calibrating": false,
@@ -18061,7 +18061,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": 334,
+   "net_transfers_gw": 337,
    "owned_pct": 0.2
   },
   {
@@ -18115,7 +18115,7 @@
    "status": "a",
    "news": "",
    "chance_next_round": null,
-   "net_transfers_gw": -2800,
+   "net_transfers_gw": -2802,
    "owned_pct": 0.7
   },
   {
