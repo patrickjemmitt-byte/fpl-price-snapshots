@@ -1,6 +1,6 @@
 # FPL price change projections
 
-Generated: 2026-11-16 20:42 UTC
+Generated: 2026-11-16 21:32 UTC
 
 Source: official FPL bootstrap-static feed. Tonight means the next 00:00 UK price change.
 Percent is projected progress (100 or more means a move is expected). L is the likelihood score, -5 to +5.
@@ -15,66 +15,67 @@ None.
 | Player | Team | Pos | Price | Tonight | Next night | Night after | Net transfers GW |
 |---|---|---|---|---|---|---|---|
 | J.Fletcher | MUN | MID | 4.9 | -101% (L-5) | -101% (L-5) | -101% (L-5) | -7 |
+| Mingueza | CRY | DEF | 4.3 | -100% (L-5) | -100% (L-5) | -100% (L-5) | -51 |
+| Cook | BOU | MID | 5.0 | -100% (L-5) | -100% (L-5) | -100% (L-5) | -323 |
 
 ## Close to rising (80% to 99%)
 
 | Player | Team | Pos | Price | Tonight | Next night | Night after | Net transfers GW |
 |---|---|---|---|---|---|---|---|
-| Suzuki | AVL | GKP | 5.0 | 98% (L4) | 98% (L4) | 99% (L4) | +10379 |
-| Gomez | BHA | MID | 5.0 | 98% (L4) | 99% (L4) | 100% (L5) | +33970 |
-| Raya | ARS | GKP | 6.2 | 94% (L3) | 95% (L4) | 96% (L4) | +38536 |
-| McGinn | AVL | MID | 5.4 | 91% (L3) | 94% (L3) | 97% (L4) | +44862 |
-| Trafford | LEE | GKP | 5.0 | 89% (L3) | 91% (L3) | 92% (L3) | +19547 |
-| Tarkowski | EVE | DEF | 6.2 | 81% (L3) | 80% (L3) | 80% (L3) | -26821 |
+| Suzuki | AVL | GKP | 5.0 | 98% (L4) | 98% (L4) | 98% (L4) | +10394 |
+| Gomez | BHA | MID | 5.0 | 98% (L4) | 99% (L4) | 101% (L5) | +34053 |
+| Raya | ARS | GKP | 6.2 | 94% (L3) | 95% (L4) | 96% (L4) | +38585 |
+| McGinn | AVL | MID | 5.4 | 91% (L3) | 94% (L3) | 98% (L4) | +45038 |
+| Trafford | LEE | GKP | 5.0 | 89% (L3) | 91% (L3) | 92% (L3) | +19606 |
+| Tarkowski | EVE | DEF | 6.2 | 81% (L3) | 80% (L3) | 79% (L3) | -26870 |
 
 ## Close to falling (-80% to -99%)
 
 | Player | Team | Pos | Price | Tonight | Next night | Night after | Net transfers GW |
 |---|---|---|---|---|---|---|---|
-| Cook | BOU | MID | 5.0 | -100% (L-4) | -97% (L-4) | -94% (L-3) | -321 |
-| Mingueza | CRY | DEF | 4.3 | -99% (L-4) | -95% (L-3) | -90% (L-3) | -51 |
-| McConnell | LIV | MID | 4.4 | -99% (L-4) | -100% (L-4) | -101% (L-5) | -433 |
-| Georginio | BHA | FWD | 5.3 | -98% (L-4) | -100% (L-4) | -102% (L-5) | -1508 |
+| McConnell | LIV | MID | 4.4 | -99% (L-4) | -100% (L-4) | -101% (L-5) | -435 |
+| Georginio | BHA | FWD | 5.3 | -98% (L-4) | -98% (L-4) | -99% (L-4) | -1510 |
 | Palacios | FUL | MID | 5.3 | -96% (L-4) | -96% (L-4) | -96% (L-4) | -179 |
 | Darlow | MUN | GKP | 4.5 | -96% (L-4) | -96% (L-4) | -96% (L-4) | -40 |
 | Hjertø-Dahl | HUL | MID | 4.8 | -95% (L-4) | -95% (L-4) | -95% (L-4) | -92 |
 | Heaven | MUN | DEF | 4.3 | -95% (L-3) | -95% (L-3) | -95% (L-3) | -334 |
-| Mitchell | CRY | DEF | 4.5 | -94% (L-3) | -94% (L-3) | -94% (L-3) | -9608 |
-| McNeil | CRY | MID | 5.3 | -94% (L-3) | -94% (L-3) | -94% (L-3) | -96 |
-| Fletcher | MUN | MID | 4.4 | -94% (L-3) | -94% (L-3) | -94% (L-3) | -618 |
-| Mason-Clark | COV | MID | 5.3 | -93% (L-3) | -96% (L-4) | -99% (L-4) | -138 |
-| Barnes | NEW | MID | 6.1 | -93% (L-3) | -96% (L-4) | -100% (L-4) | -44434 |
+| Mitchell | CRY | DEF | 4.5 | -94% (L-3) | -95% (L-4) | -96% (L-4) | -9624 |
+| McNeil | CRY | MID | 5.3 | -94% (L-3) | -94% (L-3) | -94% (L-3) | -97 |
+| Fletcher | MUN | MID | 4.4 | -94% (L-3) | -94% (L-3) | -94% (L-3) | -620 |
+| Tchaouna | COV | MID | 5.3 | -93% (L-3) | -96% (L-4) | -99% (L-4) | -77 |
+| Barnes | NEW | MID | 6.1 | -93% (L-3) | -97% (L-4) | -100% (L-5) | -44555 |
 | Arrizabalaga | ARS | GKP | 4.9 | -92% (L-3) | -92% (L-3) | -92% (L-3) | -60 |
-| Tchaouna | COV | MID | 5.3 | -92% (L-3) | -92% (L-3) | -92% (L-3) | -76 |
-| Gonzalo | FUL | FWD | 5.9 | -92% (L-3) | -96% (L-4) | -100% (L-4) | -26170 |
-| Walle Egeli | IPS | FWD | 4.5 | -92% (L-3) | -93% (L-3) | -94% (L-3) | -12552 |
-| Dubravka | TOT | GKP | 4.0 | -92% (L-3) | -92% (L-3) | -93% (L-3) | -15908 |
+| Mason-Clark | COV | MID | 5.3 | -92% (L-3) | -92% (L-3) | -92% (L-3) | -138 |
+| Walle Egeli | IPS | FWD | 4.5 | -92% (L-3) | -94% (L-3) | -96% (L-4) | -12569 |
+| Gonzalo | FUL | FWD | 5.9 | -92% (L-3) | -95% (L-4) | -98% (L-4) | -26215 |
+| Dubravka | TOT | GKP | 4.0 | -92% (L-3) | -92% (L-3) | -93% (L-3) | -15936 |
 | Dowman [s] | ARS | MID | 5.3 | -92% (L-3) | -92% (L-3) | -92% (L-3) | -302 |
-| Barkley | AVL | MID | 5.0 | -91% (L-3) | -91% (L-3) | -91% (L-3) | -342 |
-| Nketiah | CRY | FWD | 5.4 | -91% (L-3) | -89% (L-3) | -87% (L-3) | -456 |
+| Barkley | AVL | MID | 5.0 | -91% (L-3) | -91% (L-3) | -91% (L-3) | -343 |
+| Nketiah | CRY | FWD | 5.4 | -91% (L-3) | -88% (L-3) | -85% (L-3) | -451 |
 | Yohanna [i] | BHA | MID | 4.8 | -90% (L-3) | -90% (L-3) | -90% (L-3) | -46 |
-| Tsimikas | LIV | DEF | 4.9 | -89% (L-3) | -86% (L-3) | -83% (L-3) | -94 |
-| Zirkzee | MUN | FWD | 5.3 | -88% (L-3) | -87% (L-3) | -86% (L-3) | -543 |
+| Tsimikas | LIV | DEF | 4.9 | -90% (L-3) | -90% (L-3) | -90% (L-3) | -94 |
+| Zirkzee | MUN | FWD | 5.3 | -88% (L-3) | -90% (L-3) | -92% (L-3) | -545 |
 | Azeez [i] | BHA | MID | 5.5 | -88% (L-3) | -88% (L-3) | -88% (L-3) | +9 |
-| Simms | COV | FWD | 4.9 | -87% (L-3) | -90% (L-3) | -93% (L-3) | -2388 |
+| Simms | COV | FWD | 4.9 | -87% (L-3) | -90% (L-3) | -93% (L-3) | -2395 |
 | Meslier | ARS | GKP | 4.9 | -87% (L-3) | -87% (L-3) | -87% (L-3) | -20 |
 | Núñez | IPS | MID | 4.8 | -87% (L-3) | -87% (L-3) | -87% (L-3) | -151 |
 | Gozo | CRY | MID | 4.9 | -87% (L-3) | -87% (L-3) | -87% (L-3) | -10 |
+| Oriola | BHA | MID | 4.4 | -87% (L-3) | -90% (L-3) | -93% (L-3) | -469 |
 | Drakes-Thomas | CRY | MID | 4.4 | -87% (L-3) | -87% (L-3) | -87% (L-3) | -95 |
-| Kerkez | LIV | DEF | 5.3 | -86% (L-3) | -86% (L-3) | -86% (L-3) | -1962 |
-| Longstaff | LEE | MID | 4.8 | -86% (L-3) | -86% (L-3) | -86% (L-3) | -56 |
-| Oriola | BHA | MID | 4.4 | -86% (L-3) | -86% (L-3) | -86% (L-3) | -467 |
-| Mbeumo | MUN | MID | 7.9 | -86% (L-3) | -87% (L-3) | -88% (L-3) | -82020 |
-| Semenyo [i] | MCI | MID | 8.2 | -84% (L-3) | -85% (L-3) | -86% (L-3) | -30271 |
+| Kerkez | LIV | DEF | 5.3 | -87% (L-3) | -87% (L-3) | -88% (L-3) | -1966 |
+| Longstaff | LEE | MID | 4.8 | -86% (L-3) | -80% (L-3) | -75% (L-3) | -55 |
+| Mbeumo | MUN | MID | 7.9 | -86% (L-3) | -87% (L-3) | -89% (L-3) | -82182 |
+| Semenyo [i] | MCI | MID | 8.2 | -84% (L-3) | -85% (L-3) | -86% (L-3) | -30324 |
 | Hickey | BRE | DEF | 4.5 | -84% (L-3) | -84% (L-3) | -84% (L-3) | -87 |
-| Šeško [i] | MUN | FWD | 6.9 | -83% (L-3) | -83% (L-3) | -84% (L-3) | -2992 |
-| Mudryk [i] | TOT | MID | 5.3 | -83% (L-3) | -80% (L-3) | -78% (L-3) | -47 |
-| Muniz | FUL | FWD | 5.3 | -83% (L-3) | -84% (L-3) | -85% (L-3) | -423 |
-| Palmer | IPS | GKP | 4.0 | -83% (L-3) | -84% (L-3) | -84% (L-3) | -3070 |
-| Shepherd | COV | MID | 4.4 | -83% (L-3) | -83% (L-3) | -83% (L-3) | -437 |
+| Mudryk [i] | TOT | MID | 5.3 | -84% (L-3) | -84% (L-3) | -84% (L-3) | -47 |
+| Šeško [i] | MUN | FWD | 6.9 | -83% (L-3) | -83% (L-3) | -83% (L-3) | -2993 |
+| Muniz | FUL | FWD | 5.3 | -83% (L-3) | -84% (L-3) | -85% (L-3) | -424 |
+| Shepherd | COV | MID | 4.4 | -83% (L-3) | -85% (L-3) | -87% (L-3) | -438 |
+| Palmer | IPS | GKP | 4.0 | -83% (L-3) | -83% (L-3) | -83% (L-3) | -3074 |
+| Garnacho | AVL | MID | 5.7 | -82% (L-3) | -83% (L-3) | -84% (L-3) | -362 |
+| Wood | NFO | FWD | 5.7 | -82% (L-3) | -84% (L-3) | -86% (L-3) | -2064 |
 | Torp | COV | MID | 5.3 | -82% (L-3) | -82% (L-3) | -82% (L-3) | -4 |
-| Garnacho | AVL | MID | 5.7 | -82% (L-3) | -81% (L-3) | -79% (L-3) | -361 |
-| Wood | NFO | FWD | 5.7 | -82% (L-3) | -82% (L-3) | -82% (L-3) | -2059 |
-| Woodman | LIV | GKP | 4.0 | -82% (L-3) | -82% (L-3) | -82% (L-3) | -799 |
-| Nmecha | LEE | FWD | 5.3 | -81% (L-3) | -82% (L-3) | -82% (L-3) | -1140 |
+| Woodman | LIV | GKP | 4.0 | -82% (L-3) | -82% (L-3) | -83% (L-3) | -802 |
+| Nmecha | LEE | FWD | 5.3 | -81% (L-3) | -82% (L-3) | -84% (L-3) | -1142 |
+| Henry [i] | BRE | DEF | 4.4 | -80% (L-3) | -82% (L-3) | -84% (L-3) | -590 |
 
