@@ -1,0 +1,150 @@
+{
+ "generated_utc": "2026-11-21 22:33",
+ "team_id": "2507254",
+ "picks_from_gameweek": 11,
+ "current_event": 11,
+ "next_deadline": "2026-11-27T18:30:00Z",
+ "bank": 5.1,
+ "bank_base_from_picks": 5.1,
+ "gw_transfers_made": 6,
+ "gw_transfer_cost": 20,
+ "transfers_after_base_gw": [],
+ "players": [
+  {
+   "name": "Raya",
+   "team": "ARS",
+   "pos": "GKP",
+   "price": 6.3,
+   "purchase": 6.0,
+   "selling": 6.1,
+   "purchase_source": "transfer"
+  },
+  {
+   "name": "Trafford",
+   "team": "LEE",
+   "pos": "GKP",
+   "price": 5.0,
+   "purchase": 5.0,
+   "selling": 5.0,
+   "purchase_source": "transfer"
+  },
+  {
+   "name": "De Cuyper",
+   "team": "BHA",
+   "pos": "DEF",
+   "price": 5.5,
+   "purchase": 5.0,
+   "selling": 5.2,
+   "purchase_source": "transfer"
+  },
+  {
+   "name": "Jacquet",
+   "team": "LIV",
+   "pos": "DEF",
+   "price": 5.1,
+   "purchase": 5.0,
+   "selling": 5.0,
+   "purchase_source": "transfer"
+  },
+  {
+   "name": "Konsa",
+   "team": "ARS",
+   "pos": "DEF",
+   "price": 4.9,
+   "purchase": 4.7,
+   "selling": 4.8,
+   "purchase_source": "transfer"
+  },
+  {
+   "name": "Silva",
+   "team": "BOU",
+   "pos": "DEF",
+   "price": 5.1,
+   "purchase": 5.0,
+   "selling": 5.0,
+   "purchase_source": "transfer"
+  },
+  {
+   "name": "Van Hecke",
+   "team": "TOT",
+   "pos": "DEF",
+   "price": 5.1,
+   "purchase": 5.1,
+   "selling": 5.1,
+   "purchase_source": "transfer"
+  },
+  {
+   "name": "Groß",
+   "team": "BHA",
+   "pos": "MID",
+   "price": 6.3,
+   "purchase": 5.5,
+   "selling": 5.9,
+   "purchase_source": "start_price"
+  },
+  {
+   "name": "McGinn",
+   "team": "AVL",
+   "pos": "MID",
+   "price": 5.5,
+   "purchase": 5.4,
+   "selling": 5.4,
+   "purchase_source": "transfer"
+  },
+  {
+   "name": "Rogers",
+   "team": "CHE",
+   "pos": "MID",
+   "price": 8.2,
+   "purchase": 7.6,
+   "selling": 7.9,
+   "purchase_source": "transfer"
+  },
+  {
+   "name": "Tavernier",
+   "team": "BOU",
+   "pos": "MID",
+   "price": 6.7,
+   "purchase": 6.2,
+   "selling": 6.4,
+   "purchase_source": "transfer"
+  },
+  {
+   "name": "Wirtz",
+   "team": "LIV",
+   "pos": "MID",
+   "price": 7.3,
+   "purchase": 7.2,
+   "selling": 7.2,
+   "purchase_source": "transfer"
+  },
+  {
+   "name": "Evanilson",
+   "team": "BOU",
+   "pos": "FWD",
+   "price": 6.5,
+   "purchase": 6.4,
+   "selling": 6.4,
+   "purchase_source": "transfer"
+  },
+  {
+   "name": "Haaland",
+   "team": "MCI",
+   "pos": "FWD",
+   "price": 15.8,
+   "purchase": 15.6,
+   "selling": 15.7,
+   "purchase_source": "transfer"
+  },
+  {
+   "name": "N.Jackson",
+   "team": "AVL",
+   "pos": "FWD",
+   "price": 7.2,
+   "purchase": 6.6,
+   "selling": 6.9,
+   "purchase_source": "transfer"
+  }
+ ],
+ "note": "Bank nets off transfers made after the base gameweek. Free transfers are not in the public API: verify on the Transfers screen."
+}
