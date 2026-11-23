@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-22 23:59",
+ "generated_utc": "2026-11-23 02:31",
  "team_id": "2507254",
  "picks_from_gameweek": 11,
  "current_event": 11,
@@ -113,9 +113,9 @@
    "name": "Wirtz",
    "team": "LIV",
    "pos": "MID",
-   "price": 7.3,
+   "price": 7.4,
    "purchase": 7.2,
-   "selling": 7.2,
+   "selling": 7.3,
    "purchase_source": "transfer"
   },
   {
@@ -140,7 +140,7 @@
    "name": "N.Jackson",
    "team": "AVL",
    "pos": "FWD",
-   "price": 7.2,
+   "price": 7.3,
    "purchase": 6.6,
    "selling": 6.9,
    "purchase_source": "transfer"
