@@ -1,6 +1,6 @@
 # FPL price change projections
 
-Generated: 2026-11-26 02:33 UTC
+Generated: 2026-11-26 19:59 UTC
 
 Source: official FPL bootstrap-static feed. Tonight means the next 00:00 UK price change.
 Percent is projected progress (100 or more means a move is expected). L is the likelihood score, -5 to +5.
@@ -8,62 +8,68 @@ A projection can reverse before the update if transfers change.
 
 ## Expected to rise tonight (100% or more)
 
-None.
+| Player | Team | Pos | Price | Tonight | Next night | Night after | Net transfers GW |
+|---|---|---|---|---|---|---|---|
+| Muharemović | LEE | DEF | 5.1 | 128% (L5) | 199% (L5) | 270% (L5) | +112926 |
+| Wirtz | LIV | MID | 7.4 | 126% (L5) | 211% (L5) | 296% (L5) | +536957 |
+| Kinsky | TOT | GKP | 4.4 | 114% (L5) | 151% (L5) | 188% (L5) | +69948 |
+| De Cuyper | BHA | DEF | 5.5 | 110% (L5) | 138% (L5) | 167% (L5) | +72733 |
+| Okafor | LEE | MID | 5.7 | 107% (L5) | 149% (L5) | 191% (L5) | +133373 |
 
 ## Expected to fall tonight (-100% or less)
 
 | Player | Team | Pos | Price | Tonight | Next night | Night after | Net transfers GW |
 |---|---|---|---|---|---|---|---|
-| Hume | SUN | DEF | 4.2 | -101% (L-5) | -103% (L-5) | -105% (L-5) | -1889 |
+| Haaland | MCI | FWD | 15.8 | -118% (L-5) | -193% (L-5) | -267% (L-5) | -175829 |
+| Hume | SUN | DEF | 4.2 | -104% (L-5) | -108% (L-5) | -113% (L-5) | -2679 |
+| Thiago [s] | BRE | FWD | 7.8 | -102% (L-5) | -109% (L-5) | -115% (L-5) | -40045 |
+| Brobbey [i] | SUN | FWD | 5.7 | -102% (L-5) | -109% (L-5) | -116% (L-5) | -32983 |
+| Garnacho | AVL | MID | 5.7 | -100% (L-5) | -106% (L-5) | -112% (L-5) | -279 |
+| George Hemmings | AVL | MID | 4.4 | -100% (L-5) | -108% (L-5) | -117% (L-5) | -2094 |
 
 ## Close to rising (80% to 99%)
 
 | Player | Team | Pos | Price | Tonight | Next night | Night after | Net transfers GW |
 |---|---|---|---|---|---|---|---|
-| De Cuyper | BHA | DEF | 5.5 | 99% (L4) | 102% (L5) | 105% (L5) | +58923 |
-| Muharemović | LEE | DEF | 5.1 | 99% (L4) | 107% (L5) | 115% (L5) | +79954 |
-| Kinsky | TOT | GKP | 4.4 | 98% (L4) | 103% (L5) | 108% (L5) | +51906 |
-| Wirtz | LIV | MID | 7.4 | 91% (L3) | 106% (L5) | 121% (L5) | +410651 |
-| Okafor | LEE | MID | 5.7 | 89% (L3) | 94% (L3) | 99% (L4) | +113115 |
-| Justin | LEE | DEF | 4.5 | 89% (L3) | 91% (L3) | 93% (L3) | +18055 |
-| Vuskovic | BHA | DEF | 5.3 | 87% (L3) | 89% (L3) | 91% (L3) | +40494 |
+| Vuskovic | BHA | DEF | 5.3 | 93% (L3) | 108% (L5) | 122% (L5) | +48507 |
+| Justin | LEE | DEF | 4.5 | 92% (L3) | 101% (L5) | 109% (L5) | +22912 |
 
 ## Close to falling (-80% to -99%)
 
 | Player | Team | Pos | Price | Tonight | Next night | Night after | Net transfers GW |
 |---|---|---|---|---|---|---|---|
-| Garnacho | AVL | MID | 5.7 | -98% (L-4) | -99% (L-4) | -100% (L-5) | -231 |
-| Thiago [s] | BRE | FWD | 7.8 | -98% (L-4) | -99% (L-4) | -100% (L-5) | -34391 |
-| Brobbey [i] | SUN | FWD | 5.7 | -98% (L-4) | -99% (L-4) | -100% (L-4) | -29116 |
-| Yates | NFO | MID | 4.4 | -97% (L-4) | -98% (L-4) | -98% (L-4) | -1499 |
-| George Hemmings | AVL | MID | 4.4 | -96% (L-4) | -97% (L-4) | -98% (L-4) | -1758 |
-| Šeško [i] | MUN | FWD | 6.9 | -94% (L-3) | -94% (L-3) | -95% (L-3) | -946 |
-| Mudryk [i] | TOT | MID | 5.3 | -94% (L-3) | -94% (L-3) | -94% (L-3) | -35 |
-| Burrowes | AVL | MID | 4.4 | -94% (L-3) | -94% (L-3) | -94% (L-3) | -709 |
-| Sels | NFO | GKP | 5.0 | -94% (L-3) | -93% (L-3) | -93% (L-3) | -1229 |
-| Bogarde | AVL | MID | 4.9 | -93% (L-3) | -93% (L-3) | -93% (L-3) | -71 |
-| Bamba | NEW | MID | 4.8 | -93% (L-3) | -93% (L-3) | -93% (L-3) | -95 |
-| Bijol | LEE | DEF | 5.0 | -92% (L-3) | -92% (L-3) | -92% (L-3) | -484 |
-| Gillespie | NEW | GKP | 4.5 | -92% (L-3) | -92% (L-3) | -92% (L-3) | -35 |
-| Nketiah | CRY | FWD | 5.4 | -92% (L-3) | -92% (L-3) | -93% (L-3) | -660 |
-| Thiaw | NEW | DEF | 4.9 | -91% (L-3) | -92% (L-3) | -92% (L-3) | -12 |
-| Isidor | SUN | FWD | 5.4 | -91% (L-3) | -94% (L-3) | -98% (L-4) | -1179 |
-| Hughes [i] | HUL | DEF | 3.9 | -90% (L-3) | -92% (L-3) | -93% (L-3) | -225 |
-| Yirenkyi [d] | COV | MID | 4.8 | -89% (L-3) | -89% (L-3) | -89% (L-3) | -574 |
-| Gibbs-White | NFO | MID | 7.8 | -89% (L-3) | -91% (L-3) | -92% (L-3) | -16311 |
-| Meslier | ARS | GKP | 4.9 | -89% (L-3) | -89% (L-3) | -89% (L-3) | +15 |
-| Ruggeri [i] | AVL | DEF | 4.4 | -89% (L-3) | -89% (L-3) | -89% (L-3) | -77 |
-| Gannon-Doak | BOU | MID | 4.8 | -89% (L-3) | -94% (L-3) | -98% (L-4) | -105 |
-| Lammens | MUN | GKP | 4.8 | -87% (L-3) | -87% (L-3) | -87% (L-3) | -10539 |
-| Longstaff | LEE | MID | 4.8 | -86% (L-3) | -80% (L-3) | -75% (L-3) | +19 |
-| Gittens [i] | CHE | MID | 5.8 | -85% (L-3) | -85% (L-3) | -85% (L-3) | -17 |
-| Haaland | MCI | FWD | 15.8 | -85% (L-3) | -98% (L-4) | -110% (L-5) | -132426 |
-| Eccles [i] | COV | MID | 4.8 | -85% (L-3) | -85% (L-3) | -85% (L-3) | -4 |
-| Torp | COV | MID | 5.3 | -84% (L-3) | -84% (L-3) | -84% (L-3) | -41 |
-| Dibling | EVE | MID | 5.3 | -84% (L-3) | -84% (L-3) | -84% (L-3) | -25 |
-| King | EVE | GKP | 4.5 | -82% (L-3) | -82% (L-3) | -82% (L-3) | -51 |
-| I.Sangaré | NFO | MID | 4.7 | -81% (L-3) | -83% (L-3) | -85% (L-3) | -441 |
-| Kipré | IPS | DEF | 3.9 | -81% (L-3) | -82% (L-3) | -83% (L-3) | -866 |
-| Touré | NEW | MID | 5.7 | -80% (L-3) | -80% (L-3) | -80% (L-3) | -100 |
-| Tóth.A [i] | BOU | MID | 4.9 | -80% (L-3) | -80% (L-3) | -80% (L-3) | -22 |
+| Yates | NFO | MID | 4.4 | -100% (L-4) | -103% (L-5) | -107% (L-5) | -1761 |
+| Bogarde | AVL | MID | 4.9 | -97% (L-4) | -102% (L-5) | -106% (L-5) | -89 |
+| Burrowes | AVL | MID | 4.4 | -97% (L-4) | -102% (L-5) | -107% (L-5) | -844 |
+| Nketiah | CRY | FWD | 5.4 | -96% (L-4) | -103% (L-5) | -111% (L-5) | -812 |
+| Yirenkyi [d] | COV | MID | 4.8 | -95% (L-4) | -102% (L-5) | -108% (L-5) | -675 |
+| Šeško [i] | MUN | FWD | 6.9 | -95% (L-3) | -96% (L-4) | -97% (L-4) | -1083 |
+| Bamba | NEW | MID | 4.8 | -95% (L-3) | -100% (L-4) | -105% (L-5) | -98 |
+| Sels | NFO | GKP | 5.0 | -95% (L-3) | -98% (L-4) | -101% (L-5) | -1231 |
+| Gillespie | NEW | GKP | 4.5 | -94% (L-3) | -94% (L-3) | -94% (L-3) | -43 |
+| Bijol | LEE | DEF | 5.0 | -94% (L-3) | -96% (L-4) | -99% (L-4) | -553 |
+| Gibbs-White | NFO | MID | 7.8 | -93% (L-3) | -102% (L-5) | -112% (L-5) | -19983 |
+| Isidor | SUN | FWD | 5.4 | -92% (L-3) | -97% (L-4) | -102% (L-5) | -1464 |
+| Mudryk [i] | TOT | MID | 5.3 | -92% (L-3) | -92% (L-3) | -92% (L-3) | -20 |
+| Schade | BRE | MID | 6.1 | -92% (L-3) | -128% (L-5) | -164% (L-5) | -84730 |
+| Thiaw | NEW | DEF | 4.9 | -92% (L-3) | -95% (L-3) | -97% (L-4) | -141 |
+| Hughes [i] | HUL | DEF | 3.9 | -91% (L-3) | -92% (L-3) | -94% (L-3) | -260 |
+| Eccles [i] | COV | MID | 4.8 | -91% (L-3) | -104% (L-5) | -117% (L-5) | -10 |
+| Meslier | ARS | GKP | 4.9 | -90% (L-3) | -90% (L-3) | -90% (L-3) | +11 |
+| Gannon-Doak | BOU | MID | 4.8 | -90% (L-3) | -104% (L-5) | -118% (L-5) | -125 |
+| Ruggeri [i] | AVL | DEF | 4.4 | -90% (L-3) | -92% (L-3) | -94% (L-3) | -89 |
+| Lammens | MUN | GKP | 4.8 | -89% (L-3) | -94% (L-3) | -98% (L-4) | -12323 |
+| Longstaff | LEE | MID | 4.8 | -89% (L-3) | -96% (L-4) | -102% (L-5) | +45 |
+| Fofana | SUN | MID | 5.4 | -88% (L-3) | -100% (L-5) | -113% (L-5) | -89 |
+| King | EVE | GKP | 4.5 | -87% (L-3) | -100% (L-4) | -112% (L-5) | -68 |
+| Gittens [i] | CHE | MID | 5.8 | -87% (L-3) | -87% (L-3) | -87% (L-3) | -25 |
+| Dibling | EVE | MID | 5.3 | -86% (L-3) | -86% (L-3) | -86% (L-3) | -36 |
+| Gonzalo | FUL | FWD | 5.8 | -85% (L-3) | -116% (L-5) | -148% (L-5) | -17718 |
+| Torp | COV | MID | 5.3 | -84% (L-3) | -84% (L-3) | -84% (L-3) | -46 |
+| I.Sangaré | NFO | MID | 4.7 | -84% (L-3) | -95% (L-3) | -106% (L-5) | -556 |
+| Touré | NEW | MID | 5.7 | -84% (L-3) | -90% (L-3) | -96% (L-4) | -124 |
+| Kipré | IPS | DEF | 3.9 | -82% (L-3) | -86% (L-3) | -90% (L-3) | -1019 |
+| Tóth.A [i] | BOU | MID | 4.9 | -81% (L-3) | -81% (L-3) | -81% (L-3) | -26 |
+| Mason-Clark [d] | COV | MID | 5.3 | -80% (L-3) | -80% (L-3) | -80% (L-3) | -201 |
+| Diop | IPS | DEF | 3.9 | -80% (L-3) | -85% (L-3) | -91% (L-3) | -19184 |
 
