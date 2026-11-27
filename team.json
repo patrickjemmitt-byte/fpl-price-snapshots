@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-26 23:52",
+ "generated_utc": "2026-11-27 02:32",
  "team_id": "2507254",
  "picks_from_gameweek": 11,
  "current_event": 11,
@@ -32,9 +32,9 @@
    "name": "De Cuyper",
    "team": "BHA",
    "pos": "DEF",
-   "price": 5.5,
+   "price": 5.6,
    "purchase": 5.0,
-   "selling": 5.2,
+   "selling": 5.3,
    "purchase_source": "transfer"
   },
   {
@@ -113,7 +113,7 @@
    "name": "Wirtz",
    "team": "LIV",
    "pos": "MID",
-   "price": 7.4,
+   "price": 7.5,
    "purchase": 7.2,
    "selling": 7.3,
    "purchase_source": "transfer"
@@ -131,9 +131,9 @@
    "name": "Haaland",
    "team": "MCI",
    "pos": "FWD",
-   "price": 15.8,
+   "price": 15.7,
    "purchase": 15.6,
-   "selling": 15.7,
+   "selling": 15.6,
    "purchase_source": "transfer"
   },
   {
