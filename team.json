@@ -1,13 +1,13 @@
 {
- "generated_utc": "2026-11-27 02:32",
+ "generated_utc": "2026-11-27 19:55",
  "team_id": "2507254",
- "picks_from_gameweek": 11,
- "current_event": 11,
- "next_deadline": "2026-11-27T18:30:00Z",
- "bank": 5.1,
- "bank_base_from_picks": 5.1,
- "gw_transfers_made": 6,
- "gw_transfer_cost": 20,
+ "picks_from_gameweek": 12,
+ "current_event": 12,
+ "next_deadline": "2026-12-01T18:30:00Z",
+ "bank": 12.6,
+ "bank_base_from_picks": 12.6,
+ "gw_transfers_made": 4,
+ "gw_transfer_cost": 12,
  "transfers_after_base_gw": [],
  "players": [
   {
@@ -47,12 +47,12 @@
    "purchase_source": "transfer"
   },
   {
-   "name": "Konsa",
-   "team": "ARS",
+   "name": "Muharemović",
+   "team": "LEE",
    "pos": "DEF",
-   "price": 4.9,
-   "purchase": 4.7,
-   "selling": 4.8,
+   "price": 5.2,
+   "purchase": 5.1,
+   "selling": 5.1,
    "purchase_source": "transfer"
   },
   {
@@ -83,21 +83,21 @@
    "purchase_source": "start_price"
   },
   {
-   "name": "McGinn",
-   "team": "AVL",
-   "pos": "MID",
-   "price": 5.5,
-   "purchase": 5.4,
-   "selling": 5.4,
-   "purchase_source": "transfer"
-  },
-  {
    "name": "Rogers",
    "team": "CHE",
    "pos": "MID",
    "price": 8.3,
    "purchase": 7.6,
    "selling": 7.9,
+   "purchase_source": "transfer"
+  },
+  {
+   "name": "Rudoni",
+   "team": "COV",
+   "pos": "MID",
+   "price": 5.0,
+   "purchase": 4.9,
+   "selling": 4.9,
    "purchase_source": "transfer"
   },
   {
@@ -119,6 +119,15 @@
    "purchase_source": "transfer"
   },
   {
+   "name": "Calvert-Lewin",
+   "team": "LEE",
+   "pos": "FWD",
+   "price": 6.0,
+   "purchase": 6.0,
+   "selling": 6.0,
+   "purchase_source": "transfer"
+  },
+  {
    "name": "Evanilson",
    "team": "BOU",
    "pos": "FWD",
@@ -128,21 +137,12 @@
    "purchase_source": "transfer"
   },
   {
-   "name": "Haaland",
-   "team": "MCI",
+   "name": "Isak",
+   "team": "LIV",
    "pos": "FWD",
-   "price": 15.7,
-   "purchase": 15.6,
-   "selling": 15.6,
-   "purchase_source": "transfer"
-  },
-  {
-   "name": "N.Jackson",
-   "team": "AVL",
-   "pos": "FWD",
-   "price": 7.3,
-   "purchase": 6.6,
-   "selling": 6.9,
+   "price": 9.4,
+   "purchase": 9.3,
+   "selling": 9.3,
    "purchase_source": "transfer"
   }
  ],
