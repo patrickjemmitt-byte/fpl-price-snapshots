@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-27 23:48",
+ "generated_utc": "2026-11-28 02:29",
  "team_id": "2507254",
  "picks_from_gameweek": 12,
  "current_event": 12,
@@ -77,7 +77,7 @@
    "name": "Groß",
    "team": "BHA",
    "pos": "MID",
-   "price": 6.3,
+   "price": 6.4,
    "purchase": 5.5,
    "selling": 5.9,
    "purchase_source": "start_price"
@@ -113,16 +113,16 @@
    "name": "Wirtz",
    "team": "LIV",
    "pos": "MID",
-   "price": 7.5,
+   "price": 7.6,
    "purchase": 7.2,
-   "selling": 7.3,
+   "selling": 7.4,
    "purchase_source": "transfer"
   },
   {
    "name": "Calvert-Lewin",
    "team": "LEE",
    "pos": "FWD",
-   "price": 6.0,
+   "price": 6.1,
    "purchase": 6.0,
    "selling": 6.0,
    "purchase_source": "transfer"
